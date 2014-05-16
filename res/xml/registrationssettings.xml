@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceCategory android:title="AuthSettings" xmlns:android="http://schemas.android.com/apk/res/android" >
+	<Preference 
+	    android:title="FirstTime"
+	    android:key="firsttime"
+	    android:defaultValue="true"
+	    android:persistent="true"
+	    />
+	<Preference 
+	    android:title="IsLocked"
+	    android:key="isLocked"
+	    android:defaultValue="false"
+	    android:persistent="true"
+	    />
+
+</PreferenceCategory>

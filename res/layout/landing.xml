@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      style="@style/body.landing">
+    <!-- header -->
+    <RelativeLayout style="@style/wrap_y" android:gravity="center_vertical">
+    <LinearLayout style="@style/header.wrapper.landing">
+        <ImageView style="@style/header_logo"/>
+<!-- <TextView style="@style/header.text" android:id="@+id/hi_title_1"/>
+	        <TextView style="@style/header.text.red" android:id="@+id/hi_title_2"/> -->
+    </LinearLayout>
+    </RelativeLayout>
+	<!-- body -->
+	<ScrollView style="@style/fill_xy" android:gravity="center">
+	<LinearLayout style="@style/wrap_y" android:gravity="center" android:orientation="vertical" >
+		<LinearLayout style="@style/landing_tr">
+			<LinearLayout style="@style/landing_td">
+				<Button style="@style/landing_button.house" 
+				    android:id="@+id/landing_listings_button"
+				    android:text="Listings"/>
+			</LinearLayout>
+			<LinearLayout style="@style/landing_td">
+				<Button style="@style/landing_button.docs" 
+				    android:id="@+id/landing_documents_button"
+				    android:text="Documents"/>
+			</LinearLayout>
+		</LinearLayout>
+		<LinearLayout style="@style/landing_tr">
+		    <LinearLayout style="@style/landing_td">
+				<Button style="@style/landing_button.maps" 
+				    android:id="@+id/landing_map_button"
+				    android:text="Maps"/>
+			</LinearLayout>
+			<LinearLayout style="@style/landing_td">
+				<Button style="@style/landing_button.tools" android:id="@+id/landing_tools_button"
+				    android:text="Tools"/>
+			</LinearLayout>  
+		</LinearLayout>
+		<LinearLayout style="@style/landing_tr">
+		    <LinearLayout style="@style/landing_td">
+				<Button style="@style/landing_button.info" android:id="@+id/landing_help_button"
+				    android:text="Info"/>
+			</LinearLayout>
+			<LinearLayout style="@style/landing_td">
+				<Button style="@style/landing_button.sync" android:id="@+id/landing_option_button"
+				    android:text="Sync"/>
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+	</ScrollView>
+</LinearLayout>  

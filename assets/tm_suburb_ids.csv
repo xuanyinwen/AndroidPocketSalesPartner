@@ -1,0 +1,1887 @@
+region_id,region_name,district_id,district_name,suburb_id,suburb_name
+1,Auckland,7,Auckland City,3256,Arch Hill
+1,Auckland,7,Auckland City,149,Avondale
+1,Auckland,7,Auckland City,124,Balmoral
+1,Auckland,7,Auckland City,130,Blockhouse Bay
+1,Auckland,7,Auckland City,89,City Centre
+1,Auckland,7,Auckland City,3229,Coxs Bay
+1,Auckland,7,Auckland City,135,Eden Terrace
+1,Auckland,7,Auckland City,393,Ellerslie
+1,Auckland,7,Auckland City,125,Epsom
+1,Auckland,7,Auckland City,3230,Fairview Heights
+1,Auckland,7,Auckland City,88,Freemans Bay
+1,Auckland,7,Auckland City,316,Glen Innes
+1,Auckland,7,Auckland City,16,Glendowie
+1,Auckland,7,Auckland City,136,Grafton
+1,Auckland,7,Auckland City,381,Great Barrier Island
+1,Auckland,7,Auckland City,122,Greenlane
+1,Auckland,7,Auckland City,87,Grey Lynn
+1,Auckland,7,Auckland City,84,Herne Bay
+1,Auckland,7,Auckland City,138,Hillsborough
+1,Auckland,7,Auckland City,123,Kingsland
+1,Auckland,7,Auckland City,17,Kohimarama
+1,Auckland,7,Auckland City,102,Lynfield
+1,Auckland,7,Auckland City,39,Meadowbank
+1,Auckland,7,Auckland City,62,Mission Bay
+1,Auckland,7,Auckland City,126,Morningside
+1,Auckland,7,Auckland City,129,Mount Albert
+1,Auckland,7,Auckland City,90,Mount Eden
+1,Auckland,7,Auckland City,120,Mount Roskill
+1,Auckland,7,Auckland City,315,Mount Wellington
+1,Auckland,7,Auckland City,3167,New Windsor
+1,Auckland,7,Auckland City,99,Newmarket
+1,Auckland,7,Auckland City,82,Newton
+1,Auckland,7,Auckland City,131,One Tree Hill
+1,Auckland,7,Auckland City,141,Onehunga
+1,Auckland,7,Auckland City,322,Orakei
+1,Auckland,7,Auckland City,148,Oranga
+1,Auckland,7,Auckland City,338,Otahuhu
+1,Auckland,7,Auckland City,147,Owairaka
+1,Auckland,7,Auckland City,288,Panmure
+1,Auckland,7,Auckland City,41,Parnell
+1,Auckland,7,Auckland City,290,Penrose
+1,Auckland,7,Auckland City,85,Point Chevalier
+1,Auckland,7,Auckland City,337,Point England
+1,Auckland,7,Auckland City,83,Ponsonby
+1,Auckland,7,Auckland City,3060,Rakino Island
+1,Auckland,7,Auckland City,40,Remuera
+1,Auckland,7,Auckland City,132,Royal Oak
+1,Auckland,7,Auckland City,42,Saint Heliers
+1,Auckland,7,Auckland City,61,Saint Johns
+1,Auckland,7,Auckland City,63,Saint Johns Park
+1,Auckland,7,Auckland City,91,Saint Marys Bay
+1,Auckland,7,Auckland City,128,Sandringham
+1,Auckland,7,Auckland City,3258,St Lukes
+1,Auckland,7,Auckland City,394,Tamaki
+1,Auckland,7,Auckland City,395,Te Papapa
+1,Auckland,7,Auckland City,121,Three Kings
+1,Auckland,7,Auckland City,317,Wai O Taiki Bay
+1,Auckland,7,Auckland City,146,Waikowhai
+1,Auckland,7,Auckland City,142,Waterview
+1,Auckland,7,Auckland City,127,Wesley
+1,Auckland,7,Auckland City,86,Western Springs
+1,Auckland,7,Auckland City,109,Westmere
+1,Auckland,10,Franklin,1188,Aka Aka
+1,Auckland,10,Franklin,346,Ararimu
+1,Auckland,10,Franklin,293,Awhitu
+1,Auckland,10,Franklin,2851,Bombay
+1,Auckland,10,Franklin,865,Buckland
+1,Auckland,10,Franklin,173,Clarks Beach
+1,Auckland,10,Franklin,283,Glenbrook
+1,Auckland,10,Franklin,988,Harrisville
+1,Auckland,10,Franklin,345,Hunua
+1,Auckland,10,Franklin,1082,Kaiaua
+1,Auckland,10,Franklin,66,Karaka
+1,Auckland,10,Franklin,67,Kingseat
+1,Auckland,10,Franklin,1372,Mangatangi
+1,Auckland,10,Franklin,1114,Mangatawhiri
+1,Auckland,10,Franklin,1375,Maramarua
+1,Auckland,10,Franklin,382,Mauku
+1,Auckland,10,Franklin,867,Mercer
+1,Auckland,10,Franklin,659,Onewhero
+1,Auckland,10,Franklin,1209,Otaua
+1,Auckland,10,Franklin,2853,Paparimu
+1,Auckland,10,Franklin,383,Patumahoe
+1,Auckland,10,Franklin,2849,Pokeno
+1,Auckland,10,Franklin,134,Pollok
+1,Auckland,10,Franklin,1081,Port Waikato
+1,Auckland,10,Franklin,660,Pukekawa
+1,Auckland,10,Franklin,302,Pukekohe
+1,Auckland,10,Franklin,2848,Pukekohe East
+1,Auckland,10,Franklin,871,Puni
+1,Auckland,10,Franklin,330,Ramarama
+1,Auckland,10,Franklin,658,Te Kohanga
+1,Auckland,10,Franklin,866,Tuakau
+1,Auckland,10,Franklin,181,Waiau Pa
+1,Auckland,10,Franklin,175,Waiuku
+1,Auckland,10,Franklin,348,Wharekawa
+1,Auckland,8,Manukau City,390,Alfriston
+1,Auckland,8,Manukau City,26,Beachlands
+1,Auckland,8,Manukau City,15,Botany Downs
+1,Auckland,8,Manukau City,10,Brookby
+1,Auckland,8,Manukau City,18,Bucklands Beach
+1,Auckland,8,Manukau City,258,Burswood
+1,Auckland,8,Manukau City,335,Chapel Downs
+1,Auckland,8,Manukau City,368,City Centre
+1,Auckland,8,Manukau City,365,Clendon Park
+1,Auckland,8,Manukau City,11,Clevedon
+1,Auckland,8,Manukau City,369,Clover Park
+1,Auckland,8,Manukau City,4,Cockle Bay
+1,Auckland,8,Manukau City,29,Cumbria Downs
+1,Auckland,8,Manukau City,24,Dannemora
+1,Auckland,8,Manukau City,5,East Tamaki
+1,Auckland,8,Manukau City,253,Eastern Beach
+1,Auckland,8,Manukau City,286,Farm Cove
+1,Auckland,8,Manukau City,318,Favona
+1,Auckland,8,Manukau City,273,Flat Bush
+1,Auckland,8,Manukau City,13,Golflands
+1,Auckland,8,Manukau City,298,Goodwood Heights
+1,Auckland,8,Manukau City,252,Half Moon Bay
+1,Auckland,8,Manukau City,6,Highland Park
+1,Auckland,8,Manukau City,391,Hill Park
+1,Auckland,8,Manukau City,2,Howick
+1,Auckland,8,Manukau City,14,Huntington Park
+1,Auckland,8,Manukau City,33,Kawakawa Bay
+1,Auckland,8,Manukau City,3146,Mahia Park
+1,Auckland,8,Manukau City,32,Mangere
+1,Auckland,8,Manukau City,30,Mangere Bridge
+1,Auckland,8,Manukau City,269,Mangere East
+1,Auckland,8,Manukau City,3205,Manukau
+1,Auckland,8,Manukau City,299,Manukau Heights
+1,Auckland,8,Manukau City,333,Manurewa
+1,Auckland,8,Manukau City,301,Manurewa East
+1,Auckland,8,Manukau City,8,Maraetai
+1,Auckland,8,Manukau City,36,Matingarahi
+1,Auckland,8,Manukau City,3414,Meadowlands
+1,Auckland,8,Manukau City,3,Mellons Bay
+1,Auckland,8,Manukau City,28,Northpark
+1,Auckland,8,Manukau City,20,Omana Beach
+1,Auckland,8,Manukau City,34,Orere
+1,Auckland,8,Manukau City,35,Orere Point
+1,Auckland,8,Manukau City,254,Otara
+1,Auckland,8,Manukau City,25,Pakuranga
+1,Auckland,8,Manukau City,240,Papatoetoe
+1,Auckland,8,Manukau City,23,Point View Park
+1,Auckland,8,Manukau City,364,Puhinui
+1,Auckland,8,Manukau City,392,Randwick Park
+1,Auckland,8,Manukau City,27,Somerville
+1,Auckland,8,Manukau City,336,Sunnyhills
+1,Auckland,8,Manukau City,334,The Gardens
+1,Auckland,8,Manukau City,300,Totara Heights
+1,Auckland,8,Manukau City,367,Wattle Downs
+1,Auckland,8,Manukau City,366,Weymouth
+1,Auckland,8,Manukau City,9,Whitford
+1,Auckland,8,Manukau City,363,Wiri
+1,Auckland,5,North Shore City,139,Albany
+1,Auckland,5,North Shore City,2982,Bayswater
+1,Auckland,5,North Shore City,3233,Bayview
+1,Auckland,5,North Shore City,3005,Beach Haven
+1,Auckland,5,North Shore City,37,Belmont
+1,Auckland,5,North Shore City,54,Birkdale
+1,Auckland,5,North Shore City,55,Birkenhead
+1,Auckland,5,North Shore City,93,Browns Bay
+1,Auckland,5,North Shore City,97,Campbells Bay
+1,Auckland,5,North Shore City,154,Castor Bay
+1,Auckland,5,North Shore City,104,Chatswood
+1,Auckland,5,North Shore City,116,Chester Park
+1,Auckland,5,North Shore City,155,Crown Hill
+1,Auckland,5,North Shore City,60,Devonport
+1,Auckland,5,North Shore City,50,Forrest Hill
+1,Auckland,5,North Shore City,3003,Glenfield
+1,Auckland,5,North Shore City,51,Greenhithe
+1,Auckland,5,North Shore City,74,Hauraki
+1,Auckland,5,North Shore City,105,Hillcrest
+1,Auckland,5,North Shore City,77,Long Bay
+1,Auckland,5,North Shore City,3228,Lucas Heights
+1,Auckland,5,North Shore City,96,Mairangi Bay
+1,Auckland,5,North Shore City,52,Marlborough
+1,Auckland,5,North Shore City,115,Meadowood
+1,Auckland,5,North Shore City,53,Milford
+1,Auckland,5,North Shore City,95,Murrays Bay
+1,Auckland,5,North Shore City,3262,Narrow Neck
+1,Auckland,5,North Shore City,140,North Harbour
+1,Auckland,5,North Shore City,56,Northcote
+1,Auckland,5,North Shore City,3263,Northcote Point
+1,Auckland,5,North Shore City,111,Northcross
+1,Auckland,5,North Shore City,75,Okura
+1,Auckland,5,North Shore City,3275,Oteha
+1,Auckland,5,North Shore City,92,Paremoremo
+1,Auckland,5,North Shore City,118,Pinehill
+1,Auckland,5,North Shore City,3473,Rosedale
+1,Auckland,5,North Shore City,94,Rothesay Bay
+1,Auckland,5,North Shore City,3272,Schnapper Rock
+1,Auckland,5,North Shore City,49,Stanley Bay
+1,Auckland,5,North Shore City,110,Sunnynook
+1,Auckland,5,North Shore City,404,Takapuna
+1,Auckland,5,North Shore City,76,Torbay
+1,Auckland,5,North Shore City,3235,Totara Vale
+1,Auckland,5,North Shore City,114,Unsworth Heights
+1,Auckland,5,North Shore City,81,Waiake
+1,Auckland,5,North Shore City,156,Wainoni
+1,Auckland,5,North Shore City,3451,Wairua Valley
+1,Auckland,5,North Shore City,57,Westlake
+1,Auckland,5,North Shore City,119,Windsor Park
+1,Auckland,9,Papakura,389,Ardmore
+1,Auckland,9,Papakura,2636,Conifer Grove
+1,Auckland,9,Papakura,2509,Drury
+1,Auckland,9,Papakura,371,Opaheke
+1,Auckland,9,Papakura,461,Pahurehure
+1,Auckland,9,Papakura,2521,Papakura
+1,Auckland,9,Papakura,372,Red Hill
+1,Auckland,9,Papakura,2510,Takanini
+1,Auckland,4,Rodney,202,Ahuroa
+1,Auckland,4,Rodney,3265,Albany Heights
+1,Auckland,4,Rodney,235,Algies Bay
+1,Auckland,4,Rodney,320,Arkles Bay
+1,Auckland,4,Rodney,70,Army Bay
+1,Auckland,4,Rodney,321,Big Manly
+1,Auckland,4,Rodney,247,Coatesville
+1,Auckland,4,Rodney,206,Dairy Flat
+1,Auckland,4,Rodney,197,Glorit
+1,Auckland,4,Rodney,71,Gulf Harbour
+1,Auckland,4,Rodney,43,Hatfields Beach
+1,Auckland,4,Rodney,187,Helensville
+1,Auckland,4,Rodney,69,Hobbs Bay
+1,Auckland,4,Rodney,195,Hoteo
+1,Auckland,4,Rodney,143,Huapai
+1,Auckland,4,Rodney,194,Kaipara Flats
+1,Auckland,4,Rodney,48,Kaukapakapa
+1,Auckland,4,Rodney,3125,Kawau Island
+1,Auckland,4,Rodney,144,Kumeu
+1,Auckland,4,Rodney,199,Leigh
+1,Auckland,4,Rodney,456,Little Manly
+1,Auckland,4,Rodney,281,Mahurangi
+1,Auckland,4,Rodney,3452,Mahurangi East
+1,Auckland,4,Rodney,45,Mahurangi West
+1,Auckland,4,Rodney,58,Makarau
+1,Auckland,4,Rodney,3264,Manly
+1,Auckland,4,Rodney,208,Matakana
+1,Auckland,4,Rodney,72,Matakatia Bay
+1,Auckland,4,Rodney,224,Maygrove
+1,Auckland,4,Rodney,160,Muriwai Beach
+1,Auckland,4,Rodney,161,Muriwai Valley
+1,Auckland,4,Rodney,278,Omaha
+1,Auckland,4,Rodney,214,Omaha Flats
+1,Auckland,4,Rodney,274,Orewa
+1,Auckland,4,Rodney,198,Pakiri
+1,Auckland,4,Rodney,215,Parakai
+1,Auckland,4,Rodney,2705,Parkhurst
+1,Auckland,4,Rodney,241,Point Wells
+1,Auckland,4,Rodney,44,Puhoi
+1,Auckland,4,Rodney,221,Red Beach
+1,Auckland,4,Rodney,226,Redvale
+1,Auckland,4,Rodney,162,Riverhead
+1,Auckland,4,Rodney,242,Sandspit
+1,Auckland,4,Rodney,3447,Shelley Beach
+1,Auckland,4,Rodney,220,Silverdale
+1,Auckland,4,Rodney,280,Snells Beach
+1,Auckland,4,Rodney,2702,South Head
+1,Auckland,4,Rodney,402,Stanmore Bay
+1,Auckland,4,Rodney,225,Stillwater
+1,Auckland,4,Rodney,231,Streamlands
+1,Auckland,4,Rodney,3114,Tapora
+1,Auckland,4,Rodney,209,Tauhoa
+1,Auckland,4,Rodney,184,Taupaki
+1,Auckland,4,Rodney,193,Te Arai
+1,Auckland,4,Rodney,170,Te Hana
+1,Auckland,4,Rodney,236,The Grange
+1,Auckland,4,Rodney,455,Tindalls Beach
+1,Auckland,4,Rodney,207,Tomarata
+1,Auckland,4,Rodney,454,Wade Heads
+1,Auckland,4,Rodney,205,Waikoukou Valley
+1,Auckland,4,Rodney,185,Waimauku
+1,Auckland,4,Rodney,248,Wainui
+1,Auckland,4,Rodney,237,Waitoki
+1,Auckland,4,Rodney,73,Waiwera
+1,Auckland,4,Rodney,166,Warkworth
+1,Auckland,4,Rodney,210,Wellsford
+1,Auckland,4,Rodney,401,Whangaparaoa
+1,Auckland,4,Rodney,201,Woodcocks
+1,Auckland,4,Rodney,217,Woodhill
+1,Auckland,77,Waiheke Island,3199,Awaawaroa Bay
+1,Auckland,77,Waiheke Island,356,Blackpool
+1,Auckland,77,Waiheke Island,357,Church Bay
+1,Auckland,77,Waiheke Island,3245,Connells Bay
+1,Auckland,77,Waiheke Island,3232,Cowes Bay
+1,Auckland,77,Waiheke Island,3200,Enclosure Bay
+1,Auckland,77,Waiheke Island,3201,Hekerua Bay
+1,Auckland,77,Waiheke Island,3202,Kennedy Point
+1,Auckland,77,Waiheke Island,3225,Little Oneroa
+1,Auckland,77,Waiheke Island,3281,Matiatia Bay
+1,Auckland,77,Waiheke Island,397,Omiha
+1,Auckland,77,Waiheke Island,355,Oneroa
+1,Auckland,77,Waiheke Island,379,Onetangi
+1,Auckland,77,Waiheke Island,398,Orapiu
+1,Auckland,77,Waiheke Island,377,Ostend
+1,Auckland,77,Waiheke Island,378,Palm Beach
+1,Auckland,77,Waiheke Island,3203,Rocky Bay
+1,Auckland,77,Waiheke Island,3204,Sandy Bay
+1,Auckland,77,Waiheke Island,376,Surfdale
+1,Auckland,77,Waiheke Island,3209,Te Whau
+1,Auckland,77,Waiheke Island,3234,Te Whau Bay
+1,Auckland,77,Waiheke Island,3450,Waikopou Bay
+1,Auckland,77,Waiheke Island,3210,Woodside Bay
+1,Auckland,6,Waitakere City,100,Anawhata
+1,Auckland,6,Waitakere City,145,Bethells Beach (Te Henga)
+1,Auckland,6,Waitakere City,188,Cornwallis
+1,Auckland,6,Waitakere City,266,French Bay
+1,Auckland,6,Waitakere City,282,Glen Eden
+1,Auckland,6,Waitakere City,265,Glendene
+1,Auckland,6,Waitakere City,308,Green Bay
+1,Auckland,6,Waitakere City,239,Harbour View
+1,Auckland,6,Waitakere City,2634,Henderson
+1,Auckland,6,Waitakere City,2632,Henderson Valley
+1,Auckland,6,Waitakere City,222,Herald Island
+1,Auckland,6,Waitakere City,256,Hobsonville
+1,Auckland,6,Waitakere City,189,Huia
+1,Auckland,6,Waitakere City,463,Karekare
+1,Auckland,6,Waitakere City,263,Kelston
+1,Auckland,6,Waitakere City,306,Konini
+1,Auckland,6,Waitakere City,150,Laingholm
+1,Auckland,6,Waitakere City,462,Little Huia
+1,Auckland,6,Waitakere City,3255,Massey
+1,Auckland,6,Waitakere City,255,Massey East
+1,Auckland,6,Waitakere City,246,Massey North
+1,Auckland,6,Waitakere City,245,Massey West
+1,Auckland,6,Waitakere City,310,Mclaren Park
+1,Auckland,6,Waitakere City,307,New Lynn
+1,Auckland,6,Waitakere City,2635,Oratia
+1,Auckland,6,Waitakere City,309,Palm Heights
+1,Auckland,6,Waitakere City,190,Parau
+1,Auckland,6,Waitakere City,101,Piha
+1,Auckland,6,Waitakere City,257,Ranui
+1,Auckland,6,Waitakere City,3257,Royal Heights
+1,Auckland,6,Waitakere City,264,Sunnyvale
+1,Auckland,6,Waitakere City,151,Swanson
+1,Auckland,6,Waitakere City,268,Te Atatu Peninsula
+1,Auckland,6,Waitakere City,243,Te Atatu South
+1,Auckland,6,Waitakere City,261,Titirangi
+1,Auckland,6,Waitakere City,313,Waiatarua
+1,Auckland,6,Waitakere City,311,Waima
+1,Auckland,6,Waitakere City,238,Waimanu Bay
+1,Auckland,6,Waitakere City,158,Waitakere
+1,Auckland,6,Waitakere City,223,West Harbour
+1,Auckland,6,Waitakere City,260,Western Heights
+1,Auckland,6,Waitakere City,3392,Westgate
+1,Auckland,6,Waitakere City,396,Whatipu
+1,Auckland,6,Waitakere City,405,Whenuapai
+1,Auckland,6,Waitakere City,262,Wood Bay
+1,Auckland,6,Waitakere City,267,Woodlands Park
+2,Bay Of Plenty,26,Kawerau,442,Kawerau
+2,Bay Of Plenty,27,Opotiki,572,Hospital Hill
+2,Bay Of Plenty,27,Opotiki,653,Kutarere
+2,Bay Of Plenty,27,Opotiki,570,Opotiki
+2,Bay Of Plenty,27,Opotiki,568,Waiotahi
+2,Bay Of Plenty,24,Rotorua,3132,Atiamuri
+2,Bay Of Plenty,24,Rotorua,553,Awahou
+2,Bay Of Plenty,24,Rotorua,3393,Brunswick
+2,Bay Of Plenty,24,Rotorua,3168,Fairy Springs
+2,Bay Of Plenty,24,Rotorua,3074,Fenton Park
+2,Bay Of Plenty,24,Rotorua,3075,Fordlands
+2,Bay Of Plenty,24,Rotorua,3077,Glenholme
+2,Bay Of Plenty,24,Rotorua,554,Hamurana
+2,Bay Of Plenty,24,Rotorua,3080,Hannahs Bay
+2,Bay Of Plenty,24,Rotorua,3083,Hillcrest
+2,Bay Of Plenty,24,Rotorua,3207,Holdens Bay
+2,Bay Of Plenty,24,Rotorua,2909,Horohoro
+2,Bay Of Plenty,24,Rotorua,550,Kaharoa
+2,Bay Of Plenty,24,Rotorua,3087,Kawaha Point
+2,Bay Of Plenty,24,Rotorua,3089,Koutu
+2,Bay Of Plenty,24,Rotorua,563,Lake Okareka
+2,Bay Of Plenty,24,Rotorua,410,Lake Rotoma
+2,Bay Of Plenty,24,Rotorua,415,Lake Tarawera
+2,Bay Of Plenty,24,Rotorua,558,Lynmore
+2,Bay Of Plenty,24,Rotorua,2911,Mamaku
+2,Bay Of Plenty,24,Rotorua,3169,Mangakakahi
+2,Bay Of Plenty,24,Rotorua,3206,Matipo Heights
+2,Bay Of Plenty,24,Rotorua,555,Mourea
+2,Bay Of Plenty,24,Rotorua,1227,Ngakuru
+2,Bay Of Plenty,24,Rotorua,3095,Ngapuna
+2,Bay Of Plenty,24,Rotorua,552,Ngongotaha
+2,Bay Of Plenty,24,Rotorua,549,Ngongotaha Valley
+2,Bay Of Plenty,24,Rotorua,475,Okere Falls
+2,Bay Of Plenty,24,Rotorua,478,Owhata
+2,Bay Of Plenty,24,Rotorua,3170,Pleasant Heights
+2,Bay Of Plenty,24,Rotorua,3102,Pukehangi
+2,Bay Of Plenty,24,Rotorua,991,Reporoa
+2,Bay Of Plenty,24,Rotorua,2977,Rerewhakaaitu
+2,Bay Of Plenty,24,Rotorua,561,Rotoiti
+2,Bay Of Plenty,24,Rotorua,556,Rotorua
+2,Bay Of Plenty,24,Rotorua,3109,Selwyn Heights
+2,Bay Of Plenty,24,Rotorua,3134,Springfield
+2,Bay Of Plenty,24,Rotorua,3208,Sunnybrook
+2,Bay Of Plenty,24,Rotorua,559,Te Ngae
+2,Bay Of Plenty,24,Rotorua,3171,Tihiotonga
+2,Bay Of Plenty,24,Rotorua,560,Tikitere
+2,Bay Of Plenty,24,Rotorua,3116,Utuhina
+2,Bay Of Plenty,24,Rotorua,3165,Waikite
+2,Bay Of Plenty,24,Rotorua,1228,Waikite Valley
+2,Bay Of Plenty,24,Rotorua,3172,Westbrook
+2,Bay Of Plenty,24,Rotorua,3133,Western Heights
+2,Bay Of Plenty,24,Rotorua,3118,Whakarewarewa
+2,Bay Of Plenty,23,Tauranga,503,Arataki
+2,Bay Of Plenty,23,Tauranga,3173,Avenues
+2,Bay Of Plenty,23,Tauranga,504,Bayfair
+2,Bay Of Plenty,23,Tauranga,511,Bellevue
+2,Bay Of Plenty,23,Tauranga,480,Bethlehem
+2,Bay Of Plenty,23,Tauranga,429,Brookfield
+2,Bay Of Plenty,23,Tauranga,513,Bureta
+2,Bay Of Plenty,23,Tauranga,497,Cambridge Heights
+2,Bay Of Plenty,23,Tauranga,3415,Cherrywood
+2,Bay Of Plenty,23,Tauranga,501,City Centre
+2,Bay Of Plenty,23,Tauranga,499,Gate Pa
+2,Bay Of Plenty,23,Tauranga,502,Greerton
+2,Bay Of Plenty,23,Tauranga,472,Hairini
+2,Bay Of Plenty,23,Tauranga,498,Judea
+2,Bay Of Plenty,23,Tauranga,426,Kairua
+2,Bay Of Plenty,23,Tauranga,510,Matua
+2,Bay Of Plenty,23,Tauranga,428,Maungatapu
+2,Bay Of Plenty,23,Tauranga,3390,Merivale
+2,Bay Of Plenty,23,Tauranga,431,Mount Maunganui
+2,Bay Of Plenty,23,Tauranga,492,Ohauiti
+2,Bay Of Plenty,23,Tauranga,432,Omanu
+2,Bay Of Plenty,23,Tauranga,512,Otumoetai
+2,Bay Of Plenty,23,Tauranga,433,Papamoa
+2,Bay Of Plenty,23,Tauranga,435,Papamoa Beach
+2,Bay Of Plenty,23,Tauranga,500,Parkvale
+2,Bay Of Plenty,23,Tauranga,430,Poike
+2,Bay Of Plenty,23,Tauranga,524,Pyes Pa
+2,Bay Of Plenty,23,Tauranga,427,Tauranga South
+2,Bay Of Plenty,23,Tauranga,581,Tauriko
+2,Bay Of Plenty,23,Tauranga,481,Te Maunga
+2,Bay Of Plenty,23,Tauranga,474,Welcome Bay
+2,Bay Of Plenty,22,Western Bay Of Plenty,467,Aongatete
+2,Bay Of Plenty,22,Western Bay Of Plenty,3385,Apata
+2,Bay Of Plenty,22,Western Bay Of Plenty,465,Athenree
+2,Bay Of Plenty,22,Western Bay Of Plenty,466,Katikati
+2,Bay Of Plenty,22,Western Bay Of Plenty,488,Lower Kaimai
+2,Bay Of Plenty,22,Western Bay Of Plenty,598,Maketu
+2,Bay Of Plenty,22,Western Bay Of Plenty,3384,Omanawa
+2,Bay Of Plenty,22,Western Bay Of Plenty,468,Omokoroa
+2,Bay Of Plenty,22,Western Bay Of Plenty,3135,Oropi
+2,Bay Of Plenty,22,Western Bay Of Plenty,495,Paengaroa
+2,Bay Of Plenty,22,Western Bay Of Plenty,3470,Pahoia
+2,Bay Of Plenty,22,Western Bay Of Plenty,601,Pongakawa
+2,Bay Of Plenty,22,Western Bay Of Plenty,525,Pukehina
+2,Bay Of Plenty,22,Western Bay Of Plenty,523,Pyes Pa
+2,Bay Of Plenty,22,Western Bay Of Plenty,600,Rangiuru
+2,Bay Of Plenty,22,Western Bay Of Plenty,494,Te Puke
+2,Bay Of Plenty,22,Western Bay Of Plenty,470,Te Puna
+2,Bay Of Plenty,22,Western Bay Of Plenty,508,Waihi Beach
+2,Bay Of Plenty,22,Western Bay Of Plenty,469,Whakamarama
+2,Bay Of Plenty,25,Whakatane,542,Awakaponga
+2,Bay Of Plenty,25,Whakatane,516,Awakeri
+2,Bay Of Plenty,25,Whakatane,464,Coastlands
+2,Bay Of Plenty,25,Whakatane,544,Edgecumbe
+2,Bay Of Plenty,25,Whakatane,417,Galatea
+2,Bay Of Plenty,25,Whakatane,541,Matata
+2,Bay Of Plenty,25,Whakatane,418,Murupara
+2,Bay Of Plenty,25,Whakatane,520,Ohope
+2,Bay Of Plenty,25,Whakatane,440,Onepu
+2,Bay Of Plenty,25,Whakatane,543,Otakiri
+2,Bay Of Plenty,25,Whakatane,518,Pahou
+2,Bay Of Plenty,25,Whakatane,515,Paroa
+2,Bay Of Plenty,25,Whakatane,528,Pikowai
+2,Bay Of Plenty,25,Whakatane,517,Poroporo
+2,Bay Of Plenty,25,Whakatane,522,Port Ohope
+2,Bay Of Plenty,25,Whakatane,450,Ruatoki North
+2,Bay Of Plenty,25,Whakatane,521,Taneatua
+2,Bay Of Plenty,25,Whakatane,441,Te Teko
+2,Bay Of Plenty,25,Whakatane,514,Thornton
+2,Bay Of Plenty,25,Whakatane,449,Waimana
+2,Bay Of Plenty,25,Whakatane,519,Whakatane
+3,Canterbury,63,Ashburton,2337,Ashburton
+3,Canterbury,63,Ashburton,1437,Fairton
+3,Canterbury,63,Ashburton,2497,Hinds
+3,Canterbury,63,Ashburton,2354,Mayfield
+3,Canterbury,63,Ashburton,2358,Methven
+3,Canterbury,63,Ashburton,2355,Montalto
+3,Canterbury,63,Ashburton,3359,Mt Somers
+3,Canterbury,63,Ashburton,2137,Rakaia
+3,Canterbury,63,Ashburton,2498,Tinwald
+3,Canterbury,61,Banks Peninsula,2255,Akaroa
+3,Canterbury,61,Banks Peninsula,2262,Cass Bay
+3,Canterbury,61,Banks Peninsula,3432,Charteris Bay
+3,Canterbury,61,Banks Peninsula,2260,Diamond Harbour
+3,Canterbury,61,Banks Peninsula,2258,Duvauchelle
+3,Canterbury,61,Banks Peninsula,2341,Governors Bay
+3,Canterbury,61,Banks Peninsula,2253,Little River
+3,Canterbury,61,Banks Peninsula,2265,Lyttelton
+3,Canterbury,61,Banks Peninsula,2150,Motukarara
+3,Canterbury,61,Banks Peninsula,3445,Pigeon Bay
+3,Canterbury,61,Banks Peninsula,2259,Port Levy
+3,Canterbury,61,Banks Peninsula,2476,Purau
+3,Canterbury,61,Banks Peninsula,3433,Teddington
+3,Canterbury,61,Banks Peninsula,2254,Wainui
+3,Canterbury,60,Christchurch City,2189,Addington
+3,Canterbury,60,Christchurch City,3326,Aidanfield
+3,Canterbury,60,Christchurch City,2031,Aranui
+3,Canterbury,60,Christchurch City,2030,Avondale
+3,Canterbury,60,Christchurch City,2504,Avonhead
+3,Canterbury,60,Christchurch City,2388,Avonside
+3,Canterbury,60,Christchurch City,1969,Balmoral Hill
+3,Canterbury,60,Christchurch City,3253,Barrington
+3,Canterbury,60,Christchurch City,2338,Beckenham
+3,Canterbury,60,Christchurch City,2039,Belfast
+3,Canterbury,60,Christchurch City,2342,Bexley
+3,Canterbury,60,Christchurch City,2507,Bishopdale
+3,Canterbury,60,Christchurch City,2237,Bromley
+3,Canterbury,60,Christchurch City,3325,Brookhaven
+3,Canterbury,60,Christchurch City,2317,Brooklands
+3,Canterbury,60,Christchurch City,2500,Broomfield
+3,Canterbury,60,Christchurch City,2280,Bryndwr
+3,Canterbury,60,Christchurch City,2505,Burnside
+3,Canterbury,60,Christchurch City,1995,Burwood
+3,Canterbury,60,Christchurch City,2508,Casebrook
+3,Canterbury,60,Christchurch City,2181,Cashmere
+3,Canterbury,60,Christchurch City,2040,Chaneys
+3,Canterbury,60,Christchurch City,2212,City Centre
+3,Canterbury,60,Christchurch City,2435,Clifton
+3,Canterbury,60,Christchurch City,3379,Cracroft
+3,Canterbury,60,Christchurch City,1994,Dallington
+3,Canterbury,60,Christchurch City,3345,Edgeware
+3,Canterbury,60,Christchurch City,3394,Eyreton
+3,Canterbury,60,Christchurch City,2101,Fendalton
+3,Canterbury,60,Christchurch City,2217,Ferrymead
+3,Canterbury,60,Christchurch City,3273,Forest Park
+3,Canterbury,60,Christchurch City,2149,Halswell
+3,Canterbury,60,Christchurch City,2506,Harewood
+3,Canterbury,60,Christchurch City,2455,Heathcote
+3,Canterbury,60,Christchurch City,2144,Hei Hei
+3,Canterbury,60,Christchurch City,2236,Hillmorton
+3,Canterbury,60,Christchurch City,2184,Hillsborough
+3,Canterbury,60,Christchurch City,2235,Hoon Hay
+3,Canterbury,60,Christchurch City,2146,Hornby
+3,Canterbury,60,Christchurch City,2182,Huntsbury
+3,Canterbury,60,Christchurch City,2512,Hyde Park
+3,Canterbury,60,Christchurch City,2165,Ilam
+3,Canterbury,60,Christchurch City,2145,Islington
+3,Canterbury,60,Christchurch City,2308,Kainga
+3,Canterbury,60,Christchurch City,2238,Linwood
+3,Canterbury,60,Christchurch City,2215,Mairehau
+3,Canterbury,60,Christchurch City,2042,Marshland
+3,Canterbury,60,Christchurch City,2558,Merivale
+3,Canterbury,60,Christchurch City,2057,Middleton
+3,Canterbury,60,Christchurch City,2436,Moncks Bay
+3,Canterbury,60,Christchurch City,2266,Mount Pleasant
+3,Canterbury,60,Christchurch City,2183,Murray Aynsley
+3,Canterbury,60,Christchurch City,2034,New Brighton
+3,Canterbury,60,Christchurch City,2389,North Linwood
+3,Canterbury,60,Christchurch City,2032,North New Brighton
+3,Canterbury,60,Christchurch City,3371,Northcote
+3,Canterbury,60,Christchurch City,3453,Northshore
+3,Canterbury,60,Christchurch City,3277,Northwood 
+3,Canterbury,60,Christchurch City,2233,Oaklands
+3,Canterbury,60,Christchurch City,2186,Opawa
+3,Canterbury,60,Christchurch City,2557,Papanui
+3,Canterbury,60,Christchurch City,2035,Parklands
+3,Canterbury,60,Christchurch City,2216,Phillipstown
+3,Canterbury,60,Christchurch City,3279,Queenspark
+3,Canterbury,60,Christchurch City,1968,Redcliffs
+3,Canterbury,60,Christchurch City,2511,Redwood
+3,Canterbury,60,Christchurch City,1993,Riccarton
+3,Canterbury,60,Christchurch City,2213,Richmond
+3,Canterbury,60,Christchurch City,2501,Russley
+3,Canterbury,60,Christchurch City,2065,Scarborough
+3,Canterbury,60,Christchurch City,2391,Shirley
+3,Canterbury,60,Christchurch City,2058,Sockburn
+3,Canterbury,60,Christchurch City,2179,Somerfield
+3,Canterbury,60,Christchurch City,2043,South New Brighton
+3,Canterbury,60,Christchurch City,2044,Southshore
+3,Canterbury,60,Christchurch City,2309,Spencerville
+3,Canterbury,60,Christchurch City,2178,Spreydon
+3,Canterbury,60,Christchurch City,2214,St. Albans
+3,Canterbury,60,Christchurch City,2437,St. Andrews Hill
+3,Canterbury,60,Christchurch City,2187,St. Martins
+3,Canterbury,60,Christchurch City,3376,Stewarts Gully
+3,Canterbury,60,Christchurch City,3454,Strowan
+3,Canterbury,60,Christchurch City,3112,Styx
+3,Canterbury,60,Christchurch City,2067,Sumner
+3,Canterbury,60,Christchurch City,2180,Sydenham
+3,Canterbury,60,Christchurch City,2453,Templeton
+3,Canterbury,60,Christchurch City,2177,Upper Riccarton
+3,Canterbury,60,Christchurch City,2033,Waimairi Beach
+3,Canterbury,60,Christchurch City,2390,Wainoni
+3,Canterbury,60,Christchurch City,2188,Waltham
+3,Canterbury,60,Christchurch City,2046,Westlake
+3,Canterbury,60,Christchurch City,2234,Westmorland
+3,Canterbury,60,Christchurch City,3139,Wigram
+3,Canterbury,60,Christchurch City,2339,Wigram Park
+3,Canterbury,60,Christchurch City,2185,Woolston
+3,Canterbury,60,Christchurch City,3305,Yaldhurst 
+3,Canterbury,58,Hurunui,2249,Amberley
+3,Canterbury,58,Hurunui,3218,Amberley Beach
+3,Canterbury,58,Hurunui,3418,Balcairn
+3,Canterbury,58,Hurunui,1541,Cheviot
+3,Canterbury,58,Hurunui,1542,Culverden
+3,Canterbury,58,Hurunui,1544,Domett
+3,Canterbury,58,Hurunui,3395,Gore Bay
+3,Canterbury,58,Hurunui,3357,Greta Valley
+3,Canterbury,58,Hurunui,1543,Hanmer Springs
+3,Canterbury,58,Hurunui,2615,Hawarden
+3,Canterbury,58,Hurunui,3219,Leithfield
+3,Canterbury,58,Hurunui,2250,Leithfield Beach
+3,Canterbury,58,Hurunui,3356,Lewis Pass
+3,Canterbury,58,Hurunui,2273,Motunau
+3,Canterbury,58,Hurunui,3425,Oaro
+3,Canterbury,58,Hurunui,2276,Omihi
+3,Canterbury,58,Hurunui,3360,Rotherham
+3,Canterbury,58,Hurunui,3358,Scargill
+3,Canterbury,58,Hurunui,1539,Waiau
+3,Canterbury,58,Hurunui,2163,Waikari
+3,Canterbury,58,Hurunui,2277,Waipara
+3,Canterbury,65,Mackenzie,3318,Burkes Pass 
+3,Canterbury,65,Mackenzie,2407,Fairlie
+3,Canterbury,65,Mackenzie,2550,Lake Tekapo
+3,Canterbury,65,Mackenzie,3455,Mt Cook
+3,Canterbury,65,Mackenzie,2219,Twizel
+3,Canterbury,62,Selwyn,3427,Annat
+3,Canterbury,62,Selwyn,2614,Arthurs Pass
+3,Canterbury,62,Selwyn,3396,Broadfield
+3,Canterbury,62,Selwyn,2003,Burnham
+3,Canterbury,62,Selwyn,3431,Castle Hill Village
+3,Canterbury,62,Selwyn,3428,Charing Cross
+3,Canterbury,62,Selwyn,2279,Coalgate
+3,Canterbury,62,Selwyn,2278,Darfield
+3,Canterbury,62,Selwyn,3286,Doyleston
+3,Canterbury,62,Selwyn,2002,Dunsandel
+3,Canterbury,62,Selwyn,2312,Greendale
+3,Canterbury,62,Selwyn,2311,Hororata
+3,Canterbury,62,Selwyn,3409,Irwell
+3,Canterbury,62,Selwyn,2454,Kirwee
+3,Canterbury,62,Selwyn,3430,Kowai Bush
+3,Canterbury,62,Selwyn,2314,Lake Coleridge
+3,Canterbury,62,Selwyn,2049,Lake Ellesmere
+3,Canterbury,62,Selwyn,2001,Leeston
+3,Canterbury,62,Selwyn,2005,Lincoln
+3,Canterbury,62,Selwyn,2147,Prebbleton
+3,Canterbury,62,Selwyn,2004,Rolleston
+3,Canterbury,62,Selwyn,3429,Russells Flat
+3,Canterbury,62,Selwyn,2419,Sheffield
+3,Canterbury,62,Selwyn,1999,Southbridge
+3,Canterbury,62,Selwyn,2418,Springfield
+3,Canterbury,62,Selwyn,2006,Springston
+3,Canterbury,62,Selwyn,2007,Tai Tapu
+3,Canterbury,62,Selwyn,2406,Weedons
+3,Canterbury,62,Selwyn,2404,West Melton
+3,Canterbury,62,Selwyn,2359,Windwhistle
+3,Canterbury,64,Timaru,2047,Arundel
+3,Canterbury,64,Timaru,2408,Geraldine
+3,Canterbury,64,Timaru,2365,Pareora
+3,Canterbury,64,Timaru,2229,Pleasant Point
+3,Canterbury,64,Timaru,3324,St Andrews
+3,Canterbury,64,Timaru,2228,Temuka
+3,Canterbury,64,Timaru,2292,Timaru
+3,Canterbury,64,Timaru,2243,Washdyke
+3,Canterbury,64,Timaru,2208,Winchester
+3,Canterbury,59,Waimakariri,2545,Ashley
+3,Canterbury,59,Waimakariri,2336,Ashley Gorge
+3,Canterbury,59,Waimakariri,3419,Bennetts
+3,Canterbury,59,Waimakariri,2417,Bexley
+3,Canterbury,59,Waimakariri,3420,Burnt Hill
+3,Canterbury,59,Waimakariri,2306,Carleton
+3,Canterbury,59,Waimakariri,2218,Clarkville
+3,Canterbury,59,Waimakariri,2516,Coldstream
+3,Canterbury,59,Waimakariri,3421,Coopers Creek
+3,Canterbury,59,Waimakariri,2041,Coutts Island
+3,Canterbury,59,Waimakariri,2307,Cust
+3,Canterbury,59,Waimakariri,3422,Eyrewell
+3,Canterbury,59,Waimakariri,2544,Fernside
+3,Canterbury,59,Waimakariri,2542,Flaxton
+3,Canterbury,59,Waimakariri,3423,Gammans Creek
+3,Canterbury,59,Waimakariri,3424,Glentui
+3,Canterbury,59,Waimakariri,2313,Horrellville
+3,Canterbury,59,Waimakariri,2543,Kaiapoi
+3,Canterbury,59,Waimakariri,3328,Loburn
+3,Canterbury,59,Waimakariri,2352,Loburn North
+3,Canterbury,59,Waimakariri,2190,Ohapuku
+3,Canterbury,59,Waimakariri,2549,Ohoka
+3,Canterbury,59,Waimakariri,3327,Okuku
+3,Canterbury,59,Waimakariri,2305,Oxford
+3,Canterbury,59,Waimakariri,3410,Pegasus
+3,Canterbury,59,Waimakariri,3217,Pegasus Bay
+3,Canterbury,59,Waimakariri,3365,Pines Beach
+3,Canterbury,59,Waimakariri,2515,Rangiora
+3,Canterbury,59,Waimakariri,2350,Sefton
+3,Canterbury,59,Waimakariri,2541,Southbrook
+3,Canterbury,59,Waimakariri,2546,Springbank
+3,Canterbury,59,Waimakariri,3174,Summerhill
+3,Canterbury,59,Waimakariri,2548,Swannanoa
+3,Canterbury,59,Waimakariri,3329,Tuahiwi
+3,Canterbury,59,Waimakariri,3426,View Hill
+3,Canterbury,59,Waimakariri,2513,Waikuku
+3,Canterbury,59,Waimakariri,3444,Waikuku Beach
+3,Canterbury,59,Waimakariri,3216,West Eyreton
+3,Canterbury,59,Waimakariri,2423,White Rock
+3,Canterbury,59,Waimakariri,2514,Woodend
+3,Canterbury,66,Waimate,2169,Glenavy
+3,Canterbury,66,Waimate,2291,Saint Andrews
+3,Canterbury,66,Waimate,2168,Waimate
+4,Gisborne,28,Gisborne,1189,Awapuni
+4,Gisborne,28,Gisborne,1056,City Centre
+4,Gisborne,28,Gisborne,1058,Elgin
+4,Gisborne,28,Gisborne,1068,Hangaroa
+4,Gisborne,28,Gisborne,3320,Inner Kaiti
+4,Gisborne,28,Gisborne,1028,Kaiti
+4,Gisborne,28,Gisborne,3317,Makaraka 
+4,Gisborne,28,Gisborne,1287,Makauri
+4,Gisborne,28,Gisborne,1191,Mangapapa
+4,Gisborne,28,Gisborne,1155,Manutuke
+4,Gisborne,28,Gisborne,586,Matawai
+4,Gisborne,28,Gisborne,374,Motu
+4,Gisborne,28,Gisborne,1156,Muriwai
+4,Gisborne,28,Gisborne,1293,Ngatapa
+4,Gisborne,28,Gisborne,1309,Okitu
+4,Gisborne,28,Gisborne,1196,Ormond
+4,Gisborne,28,Gisborne,1158,Otoko
+4,Gisborne,28,Gisborne,1027,Outer Kaiti
+4,Gisborne,28,Gisborne,1286,Patutahi
+4,Gisborne,28,Gisborne,1190,Riverdale
+4,Gisborne,28,Gisborne,1169,Ruatoria
+4,Gisborne,28,Gisborne,1168,Tamarau
+4,Gisborne,28,Gisborne,1057,Te Hapara
+4,Gisborne,28,Gisborne,1290,Te Karaka
+4,Gisborne,28,Gisborne,1097,Tiniroto
+4,Gisborne,28,Gisborne,2663,Tokomaru Bay
+4,Gisborne,28,Gisborne,2643,Tolaga Bay
+4,Gisborne,28,Gisborne,1069,Waerengaokuri
+4,Gisborne,28,Gisborne,734,Waimata
+4,Gisborne,28,Gisborne,1098,Waingake
+4,Gisborne,28,Gisborne,1336,Wainui
+4,Gisborne,28,Gisborne,1167,Whangara
+4,Gisborne,28,Gisborne,1036,Wharekopae
+4,Gisborne,28,Gisborne,1026,Whataupoko
+5,Hawkes Bay,32,Central Hawkes Bay,3072,Elsthorpe
+5,Hawkes Bay,32,Central Hawkes Bay,1335,Ongaonga
+5,Hawkes Bay,32,Central Hawkes Bay,3098,Otane
+5,Hawkes Bay,32,Central Hawkes Bay,1277,Patangata
+5,Hawkes Bay,32,Central Hawkes Bay,3175,Porangahau
+5,Hawkes Bay,32,Central Hawkes Bay,1310,Takapau
+5,Hawkes Bay,32,Central Hawkes Bay,1275,Tikokino
+5,Hawkes Bay,32,Central Hawkes Bay,1282,Waipawa
+5,Hawkes Bay,32,Central Hawkes Bay,1274,Waipukurau
+5,Hawkes Bay,32,Central Hawkes Bay,1313,Wanstead
+5,Hawkes Bay,30,Hastings,1208,Akina
+5,Hawkes Bay,30,Hastings,1072,Bridge Pa
+5,Hawkes Bay,30,Hastings,1229,Camberley
+5,Hawkes Bay,30,Hastings,958,Clive
+5,Hawkes Bay,30,Hastings,3070,Crownthorpe
+5,Hawkes Bay,30,Hastings,3073,Eskdale
+5,Hawkes Bay,30,Hastings,3062,Fernhill
+5,Hawkes Bay,30,Hastings,1232,Flaxmere
+5,Hawkes Bay,30,Hastings,1206,Frimley
+5,Hawkes Bay,30,Hastings,3058,Hastings Central
+5,Hawkes Bay,30,Hastings,1137,Haumoana
+5,Hawkes Bay,30,Hastings,959,Havelock North
+5,Hawkes Bay,30,Hastings,3346,Kahuranaki
+5,Hawkes Bay,30,Hastings,1231,Karamu
+5,Hawkes Bay,30,Hastings,1250,Kereru
+5,Hawkes Bay,30,Hastings,3092,Longlands
+5,Hawkes Bay,30,Hastings,1201,Mahora
+5,Hawkes Bay,30,Hastings,3333,Mangatahi
+5,Hawkes Bay,30,Hastings,3334,Mangateretere
+5,Hawkes Bay,30,Hastings,1140,Maraekakaho
+5,Hawkes Bay,30,Hastings,1204,Mayfair
+5,Hawkes Bay,30,Hastings,1251,Moteo
+5,Hawkes Bay,30,Hastings,3096,Omahu 
+5,Hawkes Bay,30,Hastings,3335,Otamauri
+5,Hawkes Bay,30,Hastings,1139,Pakipaki
+5,Hawkes Bay,30,Hastings,3337,Pakowhai
+5,Hawkes Bay,30,Hastings,1207,Parkvale
+5,Hawkes Bay,30,Hastings,1263,Patangata
+5,Hawkes Bay,30,Hastings,1009,Patoka
+5,Hawkes Bay,30,Hastings,1142,Poukawa
+5,Hawkes Bay,30,Hastings,3220,Puketapu
+5,Hawkes Bay,30,Hastings,3103,Puketitiri
+5,Hawkes Bay,30,Hastings,3336,Putorino
+5,Hawkes Bay,30,Hastings,3222,Raukawa
+5,Hawkes Bay,30,Hastings,1203,Raureka
+5,Hawkes Bay,30,Hastings,1008,Rissington
+5,Hawkes Bay,30,Hastings,1202,Saint Leonards
+5,Hawkes Bay,30,Hastings,1112,Sherenden
+5,Hawkes Bay,30,Hastings,3374,Stortford Lodge
+5,Hawkes Bay,30,Hastings,3338,Tangoio
+5,Hawkes Bay,30,Hastings,3115,Te Awanga
+5,Hawkes Bay,30,Hastings,3339,Te Hauke
+5,Hawkes Bay,30,Hastings,983,Te Pohue
+5,Hawkes Bay,30,Hastings,1205,Tomoana
+5,Hawkes Bay,30,Hastings,982,Tutira
+5,Hawkes Bay,30,Hastings,1073,Twyford
+5,Hawkes Bay,30,Hastings,1141,Waimarama
+5,Hawkes Bay,30,Hastings,1230,Waipatu
+5,Hawkes Bay,30,Hastings,3366,Waiwhare
+5,Hawkes Bay,30,Hastings,3131,Whakatu
+5,Hawkes Bay,30,Hastings,984,Whirinaki
+5,Hawkes Bay,31,Napier,1076,Ahuriri
+5,Hawkes Bay,31,Napier,1562,Awatoto
+5,Hawkes Bay,31,Napier,962,Bay View
+5,Hawkes Bay,31,Napier,1075,Bluff Hill
+5,Hawkes Bay,31,Napier,1154,City Centre
+5,Hawkes Bay,31,Napier,1129,Greenmeadows
+5,Hawkes Bay,31,Napier,1077,Hospital Hill
+5,Hawkes Bay,31,Napier,1561,Maraenui
+5,Hawkes Bay,31,Napier,1078,Marewa
+5,Hawkes Bay,31,Napier,1563,Meeanee
+5,Hawkes Bay,31,Napier,1130,Mission View
+5,Hawkes Bay,31,Napier,3176,Napier South
+5,Hawkes Bay,31,Napier,1149,Onekawa
+5,Hawkes Bay,31,Napier,3100,Pirimai
+5,Hawkes Bay,31,Napier,3101,Poraiti
+5,Hawkes Bay,31,Napier,1128,Tamatea
+5,Hawkes Bay,31,Napier,945,Taradale
+5,Hawkes Bay,31,Napier,3443,Te Awa
+5,Hawkes Bay,31,Napier,1053,Westshore
+5,Hawkes Bay,29,Wairoa,904,Frasertown
+5,Hawkes Bay,29,Wairoa,3332,Kotemaori
+5,Hawkes Bay,29,Wairoa,3397,Mahanga
+5,Hawkes Bay,29,Wairoa,3367,Mahia
+5,Hawkes Bay,29,Wairoa,1339,Mahia Beach
+5,Hawkes Bay,29,Wairoa,3355,Mohaka
+5,Hawkes Bay,29,Wairoa,3252,Morere
+5,Hawkes Bay,29,Wairoa,968,Nuhaka
+5,Hawkes Bay,29,Wairoa,1338,Tuai
+5,Hawkes Bay,29,Wairoa,1296,Wairoa
+6,Manawatu / Wanganui,42,Horowhenua,1390,Foxton
+6,Manawatu / Wanganui,42,Horowhenua,1391,Foxton Beach
+6,Manawatu / Wanganui,42,Horowhenua,1598,Heatherlea
+6,Manawatu / Wanganui,42,Horowhenua,948,Hokio Beach
+6,Manawatu / Wanganui,42,Horowhenua,1361,Ihakara
+6,Manawatu / Wanganui,42,Horowhenua,2639,Kuku
+6,Manawatu / Wanganui,42,Horowhenua,1051,Levin
+6,Manawatu / Wanganui,42,Horowhenua,3061,Manakau
+6,Manawatu / Wanganui,42,Horowhenua,1050,Muhunoa East
+6,Manawatu / Wanganui,42,Horowhenua,1049,Ohau
+6,Manawatu / Wanganui,42,Horowhenua,3343,Opiki
+6,Manawatu / Wanganui,42,Horowhenua,1362,Shannon
+6,Manawatu / Wanganui,42,Horowhenua,1364,Tokomaru
+6,Manawatu / Wanganui,42,Horowhenua,3440,Waikawa Beach
+6,Manawatu / Wanganui,42,Horowhenua,1597,Waitarere
+6,Manawatu / Wanganui,39,Manawatu,3321,Apiti
+6,Manawatu / Wanganui,39,Manawatu,3288,Awahuri
+6,Manawatu / Wanganui,39,Manawatu,1410,Bunnythorpe
+6,Manawatu / Wanganui,39,Manawatu,107,Cheltenham
+6,Manawatu / Wanganui,39,Manawatu,3287,Colyton
+6,Manawatu / Wanganui,39,Manawatu,1411,Feilding
+6,Manawatu / Wanganui,39,Manawatu,1409,Halcombe
+6,Manawatu / Wanganui,39,Manawatu,1638,Highbury
+6,Manawatu / Wanganui,39,Manawatu,1816,Himatangi
+6,Manawatu / Wanganui,39,Manawatu,1692,Hiwinui
+6,Manawatu / Wanganui,39,Manawatu,3456,Kairanga
+6,Manawatu / Wanganui,39,Manawatu,1660,Kelvin Grove
+6,Manawatu / Wanganui,39,Manawatu,1694,Kimbolton
+6,Manawatu / Wanganui,39,Manawatu,1644,Longburn
+6,Manawatu / Wanganui,39,Manawatu,3289,Mt Biggs
+6,Manawatu / Wanganui,39,Manawatu,1646,Newbury
+6,Manawatu / Wanganui,39,Manawatu,3406,Ohakea
+6,Manawatu / Wanganui,39,Manawatu,3471,Rangiwahia
+6,Manawatu / Wanganui,39,Manawatu,1648,Rongotea
+6,Manawatu / Wanganui,39,Manawatu,1408,Sanson
+6,Manawatu / Wanganui,39,Manawatu,1407,Tangimoana
+6,Manawatu / Wanganui,39,Manawatu,3457,Waituna West
+6,Manawatu / Wanganui,40,Palmerston North,1617,Aokautere
+6,Manawatu / Wanganui,40,Palmerston North,1684,Ashhurst
+6,Manawatu / Wanganui,40,Palmerston North,1516,Awapuni
+6,Manawatu / Wanganui,40,Palmerston North,1468,City Centre
+6,Manawatu / Wanganui,40,Palmerston North,1518,Cloverlea
+6,Manawatu / Wanganui,40,Palmerston North,1517,Fitzherbert
+6,Manawatu / Wanganui,40,Palmerston North,1756,Highbury
+6,Manawatu / Wanganui,40,Palmerston North,1607,Hokowhitu
+6,Manawatu / Wanganui,40,Palmerston North,1661,Kelvin Grove
+6,Manawatu / Wanganui,40,Palmerston North,1612,Linton
+6,Manawatu / Wanganui,40,Palmerston North,1467,Milson
+6,Manawatu / Wanganui,40,Palmerston North,1910,Papaioea
+6,Manawatu / Wanganui,40,Palmerston North,1605,Roslyn
+6,Manawatu / Wanganui,40,Palmerston North,1637,Takaro
+6,Manawatu / Wanganui,40,Palmerston North,1606,Terrace End
+6,Manawatu / Wanganui,40,Palmerston North,1691,Turitea
+6,Manawatu / Wanganui,40,Palmerston North,1608,West End
+6,Manawatu / Wanganui,40,Palmerston North,3044,Westbrook
+6,Manawatu / Wanganui,38,Rangitikei,1857,Bulls
+6,Manawatu / Wanganui,38,Rangitikei,1928,Hunterville
+6,Manawatu / Wanganui,38,Rangitikei,1925,Mangaweka
+6,Manawatu / Wanganui,38,Rangitikei,2153,Marton
+6,Manawatu / Wanganui,38,Rangitikei,1702,Taihape
+6,Manawatu / Wanganui,38,Rangitikei,1047,Turakina
+6,Manawatu / Wanganui,36,Ruapehu,1403,National Park
+6,Manawatu / Wanganui,36,Ruapehu,1430,Ohakune
+6,Manawatu / Wanganui,36,Ruapehu,1346,Ohura
+6,Manawatu / Wanganui,36,Ruapehu,1402,Owhango
+6,Manawatu / Wanganui,36,Ruapehu,1512,Raetihi
+6,Manawatu / Wanganui,36,Ruapehu,3370,Raurimu
+6,Manawatu / Wanganui,36,Ruapehu,1385,Taumarunui
+6,Manawatu / Wanganui,36,Ruapehu,1431,Waiouru
+6,Manawatu / Wanganui,41,Tararua,3389,Akitio
+6,Manawatu / Wanganui,41,Tararua,1824,Dannevirke
+6,Manawatu / Wanganui,41,Tararua,1322,Eketahuna
+6,Manawatu / Wanganui,41,Tararua,1823,Pahiatua
+6,Manawatu / Wanganui,41,Tararua,1794,Pongaroa
+6,Manawatu / Wanganui,41,Tararua,1822,Woodville
+6,Manawatu / Wanganui,37,Wanganui,1613,Aramoho
+6,Manawatu / Wanganui,37,Wanganui,1665,Bastia Hill
+6,Manawatu / Wanganui,37,Wanganui,1396,Brunswick
+6,Manawatu / Wanganui,37,Wanganui,1671,Castlecliff
+6,Manawatu / Wanganui,37,Wanganui,1672,City Centre
+6,Manawatu / Wanganui,37,Wanganui,3177,College Estate
+6,Manawatu / Wanganui,37,Wanganui,1666,Durie Hill
+6,Manawatu / Wanganui,37,Wanganui,3250,Fordell
+6,Manawatu / Wanganui,37,Wanganui,1669,Gonville
+6,Manawatu / Wanganui,37,Wanganui,3085,Kai Iwi
+6,Manawatu / Wanganui,37,Wanganui,964,Kaitoke
+6,Manawatu / Wanganui,37,Wanganui,3251,Makirikiri 
+6,Manawatu / Wanganui,37,Wanganui,3269,Mangamahu 
+6,Manawatu / Wanganui,37,Wanganui,1668,Marybank
+6,Manawatu / Wanganui,37,Wanganui,1777,Maxwell
+6,Manawatu / Wanganui,37,Wanganui,3214,Mosston
+6,Manawatu / Wanganui,37,Wanganui,1778,Okoia
+6,Manawatu / Wanganui,37,Wanganui,1742,Otamatea
+6,Manawatu / Wanganui,37,Wanganui,1699,Parikino
+6,Manawatu / Wanganui,37,Wanganui,1667,Putiki
+6,Manawatu / Wanganui,37,Wanganui,1398,Rapanui
+6,Manawatu / Wanganui,37,Wanganui,1741,Saint Johns Hill
+6,Manawatu / Wanganui,37,Wanganui,2077,Springvale
+6,Manawatu / Wanganui,37,Wanganui,1670,Tawhero
+6,Manawatu / Wanganui,37,Wanganui,1673,Upokongaro
+6,Manawatu / Wanganui,37,Wanganui,1664,Wanganui East
+6,Manawatu / Wanganui,37,Wanganui,1743,Westmere
+6,Manawatu / Wanganui,37,Wanganui,3408,Whangaehu
+7,Marlborough,54,Kaikoura,2111,Kaikoura
+7,Marlborough,54,Kaikoura,2204,Kekerengu
+7,Marlborough,53,Marlborough,3319,Anakiwa 
+7,Marlborough,53,Marlborough,3248,Awatere Valley
+7,Marlborough,53,Marlborough,2226,Blenheim
+7,Marlborough,53,Marlborough,3124,Dashwood
+7,Marlborough,53,Marlborough,2224,Fairhall
+7,Marlborough,53,Marlborough,2242,Grovetown
+7,Marlborough,53,Marlborough,2195,Havelock
+7,Marlborough,53,Marlborough,3126,Kenepuru Sounds
+7,Marlborough,53,Marlborough,3249,Koromiko
+7,Marlborough,53,Marlborough,2346,Linkwater
+7,Marlborough,53,Marlborough,3041,Marlborough Sounds
+7,Marlborough,53,Marlborough,3469,Mayfield
+7,Marlborough,53,Marlborough,3459,North Bank
+7,Marlborough,53,Marlborough,2193,Okaramio
+7,Marlborough,53,Marlborough,3388,Okiwi Bay
+7,Marlborough,53,Marlborough,3458,Onamalutu Valley
+7,Marlborough,53,Marlborough,3128,Pelorus Sounds
+7,Marlborough,53,Marlborough,2198,Picton
+7,Marlborough,53,Marlborough,2284,Portage
+7,Marlborough,53,Marlborough,3129,Queen Charlotte Sounds
+7,Marlborough,53,Marlborough,2281,Rai Valley
+7,Marlborough,53,Marlborough,2192,Rapaura
+7,Marlborough,53,Marlborough,3268,Rarangi
+7,Marlborough,53,Marlborough,3231,Redwood Village
+7,Marlborough,53,Marlborough,3104,Redwoodtown
+7,Marlborough,53,Marlborough,2225,Renwick
+7,Marlborough,53,Marlborough,2241,Riverlands
+7,Marlborough,53,Marlborough,3105,Riversdale
+7,Marlborough,53,Marlborough,2223,Seddon
+7,Marlborough,53,Marlborough,2200,Spring Creek
+7,Marlborough,53,Marlborough,3111,Springlands
+7,Marlborough,53,Marlborough,2196,Tennyson Inlet
+7,Marlborough,53,Marlborough,2191,Tuamarina
+7,Marlborough,53,Marlborough,2199,Waihopai Valley
+7,Marlborough,53,Marlborough,2345,Waikawa
+7,Marlborough,53,Marlborough,2605,Wairau Valley
+7,Marlborough,53,Marlborough,2222,Ward
+7,Marlborough,53,Marlborough,3119,Witherlea
+7,Marlborough,53,Marlborough,2518,Woodbourne
+8,Nelson / Tasman,52,Nelson,2401,Annesbrook
+8,Nelson / Tasman,52,Nelson,3407,Appleby
+8,Nelson / Tasman,52,Nelson,2318,Atawhai
+8,Nelson / Tasman,52,Nelson,2316,Bishopdale
+8,Nelson / Tasman,52,Nelson,2269,Britannia Heights
+8,Nelson / Tasman,52,Nelson,3308,Cable Bay 
+8,Nelson / Tasman,52,Nelson,2397,City Centre
+8,Nelson / Tasman,52,Nelson,3292,Enner Glynn
+8,Nelson / Tasman,52,Nelson,2527,Hira
+8,Nelson / Tasman,52,Nelson,3293,Kaiteriteri
+8,Nelson / Tasman,52,Nelson,2396,Maitai
+8,Nelson / Tasman,52,Nelson,2231,Maitlands
+8,Nelson / Tasman,52,Nelson,2319,Marybank
+8,Nelson / Tasman,52,Nelson,3297,Monaco
+8,Nelson / Tasman,52,Nelson,2402,Nayland
+8,Nelson / Tasman,52,Nelson,3260,Nelson
+8,Nelson / Tasman,52,Nelson,2395,Nelson East
+8,Nelson / Tasman,52,Nelson,2398,Nelson South
+8,Nelson / Tasman,52,Nelson,3299,Ngawhatu
+8,Nelson / Tasman,52,Nelson,2270,Stepneyville
+8,Nelson / Tasman,52,Nelson,2315,Stoke
+8,Nelson / Tasman,52,Nelson,2400,Tahunanui
+8,Nelson / Tasman,52,Nelson,3280,Tahunanui Hills
+8,Nelson / Tasman,52,Nelson,2394,The Brook
+8,Nelson / Tasman,52,Nelson,3304,The Glen
+8,Nelson / Tasman,52,Nelson,2375,The Wood
+8,Nelson / Tasman,52,Nelson,3398,Toi Toi
+8,Nelson / Tasman,52,Nelson,2244,Wakapuaka
+8,Nelson / Tasman,52,Nelson,2232,Wakatu
+8,Nelson / Tasman,52,Nelson,3254,Washington Valley
+8,Nelson / Tasman,52,Nelson,2601,Whangamoa
+8,Nelson / Tasman,51,Tasman,3291,Aniseed Valley
+8,Nelson / Tasman,51,Tasman,3460,Best Island
+8,Nelson / Tasman,51,Tasman,2612,Brightwater
+8,Nelson / Tasman,51,Tasman,2085,Collingwood
+8,Nelson / Tasman,51,Tasman,3046,Golden Bay
+8,Nelson / Tasman,51,Tasman,2562,Hope
+8,Nelson / Tasman,51,Tasman,3439,Kaiteriteri
+8,Nelson / Tasman,51,Tasman,3294,Kohatu
+8,Nelson / Tasman,51,Tasman,2566,Korere
+8,Nelson / Tasman,51,Tasman,3295,Lower Moutere
+8,Nelson / Tasman,51,Tasman,3296,Mahana
+8,Nelson / Tasman,51,Tasman,2133,Mapua
+8,Nelson / Tasman,51,Tasman,3438,Marahau
+8,Nelson / Tasman,51,Tasman,2089,Motueka
+8,Nelson / Tasman,51,Tasman,3298,Motupiko
+8,Nelson / Tasman,51,Tasman,2565,Murchison
+8,Nelson / Tasman,51,Tasman,2087,Ngatimoti
+8,Nelson / Tasman,51,Tasman,3300,Owen River
+8,Nelson / Tasman,51,Tasman,3301,Patons Rock
+8,Nelson / Tasman,51,Tasman,2570,Pohara
+8,Nelson / Tasman,51,Tasman,2578,Rabbit Island
+8,Nelson / Tasman,51,Tasman,3302,Redwood Valley
+8,Nelson / Tasman,51,Tasman,2563,Richmond
+8,Nelson / Tasman,51,Tasman,2803,Riwaka
+8,Nelson / Tasman,51,Tasman,3303,Ruby Bay
+8,Nelson / Tasman,51,Tasman,2157,Saint Arnaud
+8,Nelson / Tasman,51,Tasman,2569,Takaka
+8,Nelson / Tasman,51,Tasman,2564,Tapawera
+8,Nelson / Tasman,51,Tasman,2131,Tasman
+8,Nelson / Tasman,51,Tasman,2132,Upper Moutere
+8,Nelson / Tasman,51,Tasman,2611,Wakefield
+9,Northland,1,Far North,2129,Ahipara
+9,Northland,1,Far North,1590,Awanui
+9,Northland,1,Far North,1029,Broadwood
+9,Northland,1,Far North,1923,Cable Bay
+9,Northland,1,Far North,1499,Cape Reinga
+9,Northland,1,Far North,3178,Cavalli Islands
+9,Northland,1,Far North,1950,Coopers Beach
+9,Northland,1,Far North,3309,Diggers Valley
+9,Northland,1,Far North,3310,Fairburn
+9,Northland,1,Far North,1953,Haruru
+9,Northland,1,Far North,3179,Henderson Bay
+9,Northland,1,Far North,1216,Herekino
+9,Northland,1,Far North,2493,Hihi
+9,Northland,1,Far North,3180,Hokianga
+9,Northland,1,Far North,3181,Hokianga Harbour
+9,Northland,1,Far North,2126,Horeke
+9,Northland,1,Far North,1918,Houhora
+9,Northland,1,Far North,1855,Kaeo
+9,Northland,1,Far North,1531,Kaikohe
+9,Northland,1,Far North,3182,Kaimaumau
+9,Northland,1,Far North,1589,Kaingaroa
+9,Northland,1,Far North,1591,Kaitaia
+9,Northland,1,Far North,3183,Karetu
+9,Northland,1,Far North,2495,Karikari Peninsula
+9,Northland,1,Far North,1526,Kawakawa
+9,Northland,1,Far North,1736,Kerikeri
+9,Northland,1,Far North,1960,Kohukohu
+9,Northland,1,Far North,3313,Koutu 
+9,Northland,1,Far North,3437,Lake Ohia
+9,Northland,1,Far North,1959,Mangamuka
+9,Northland,1,Far North,3412,Mangatoetoe
+9,Northland,1,Far North,1133,Mangonui
+9,Northland,1,Far North,3184,Mitimiti
+9,Northland,1,Far North,1957,Moerewa
+9,Northland,1,Far North,3413,Motutangi
+9,Northland,1,Far North,1917,Ngataki
+9,Northland,1,Far North,1525,Ohaeawai
+9,Northland,1,Far North,1523,Okaihau
+9,Northland,1,Far North,3185,Omanaia
+9,Northland,1,Far North,1530,Omapere
+9,Northland,1,Far North,2496,Opononi
+9,Northland,1,Far North,1952,Opua
+9,Northland,1,Far North,1951,Paihia
+9,Northland,1,Far North,3063,Pakaraka
+9,Northland,1,Far North,1961,Pamapuria
+9,Northland,1,Far North,1958,Panguru
+9,Northland,1,Far North,1135,Paranui
+9,Northland,1,Far North,1552,Peria
+9,Northland,1,Far North,1919,Pukenui
+9,Northland,1,Far North,2125,Pukepoto
+9,Northland,1,Far North,3186,Rangiahua
+9,Northland,1,Far North,3239,Rangiputa
+9,Northland,1,Far North,1529,Rawene
+9,Northland,1,Far North,1527,Russell
+9,Northland,1,Far North,1528,Taheke
+9,Northland,1,Far North,1922,Taipa
+9,Northland,1,Far North,1215,Takahue
+9,Northland,1,Far North,1705,Taupo Bay
+9,Northland,1,Far North,3240,Tauranga Bay
+9,Northland,1,Far North,2494,Tokerau Beach
+9,Northland,1,Far North,1592,Totara North
+9,Northland,1,Far North,1192,Towai
+9,Northland,1,Far North,1194,Victoria Valley
+9,Northland,1,Far North,1921,Waiharara
+9,Northland,1,Far North,3187,Waimamaku
+9,Northland,1,Far North,3259,Waimate North
+9,Northland,1,Far North,1735,Waipapa
+9,Northland,1,Far North,3311,Waipapakauri
+9,Northland,1,Far North,3188,Whangape Harbour
+9,Northland,1,Far North,1593,Whangaroa
+9,Northland,1,Far North,3436,Whatuwhiwhi
+9,Northland,1,Far North,3312,Whirinaki 
+9,Northland,3,Kaipara,1494,Aranga
+9,Northland,3,Kaipara,3056,Arapohue
+9,Northland,3,Kaipara,1551,Baylys Beach
+9,Northland,3,Kaipara,1862,Dargaville
+9,Northland,3,Kaipara,1571,Kaiwaka
+9,Northland,3,Kaipara,934,Kellys Bay
+9,Northland,3,Kaipara,1453,Mangawhai
+9,Northland,3,Kaipara,1454,Mangawhai Heads
+9,Northland,3,Kaipara,1863,Mangawhare
+9,Northland,3,Kaipara,1866,Matakohe
+9,Northland,3,Kaipara,1739,Maungaturoto
+9,Northland,3,Kaipara,3241,Pahi
+9,Northland,3,Kaipara,1835,Paparoa
+9,Northland,3,Kaipara,1772,Pouto
+9,Northland,3,Kaipara,1775,Ruawai
+9,Northland,3,Kaipara,1706,Tangiteroria
+9,Northland,3,Kaipara,1553,Tangowahine
+9,Northland,3,Kaipara,1773,Te Kopuru
+9,Northland,3,Kaipara,1774,Tinopai
+9,Northland,3,Kaipara,3189,Waipoua
+9,Northland,3,Kaipara,1867,Whakapirau
+9,Northland,2,Whangarei,3449,Avenues
+9,Northland,2,Whangarei,1813,Bream Bay
+9,Northland,2,Whangarei,3055,Central Whangarei
+9,Northland,2,Whangarei,1420,Glenbervie
+9,Northland,2,Whangarei,1213,Helena Bay
+9,Northland,2,Whangarei,1966,Hikurangi
+9,Northland,2,Whangarei,3435,Horahora
+9,Northland,2,Whangarei,1963,Hukerenui
+9,Northland,2,Whangarei,1424,Kamo
+9,Northland,2,Whangarei,1422,Kauri
+9,Northland,2,Whangarei,1444,Kensington
+9,Northland,2,Whangarei,3190,Kokopu
+9,Northland,2,Whangarei,3399,Langs Beach
+9,Northland,2,Whangarei,1882,Mairtown
+9,Northland,2,Whangarei,1789,Mangapai
+9,Northland,2,Whangarei,1791,Marsden Point
+9,Northland,2,Whangarei,3147,Marua
+9,Northland,2,Whangarei,3148,Matapouri
+9,Northland,2,Whangarei,1811,Maungakaramea
+9,Northland,2,Whangarei,1704,Maungatapere
+9,Northland,2,Whangarei,1881,Maunu
+9,Northland,2,Whangarei,3247,McLeod Bay
+9,Northland,2,Whangarei,1554,Morningside
+9,Northland,2,Whangarei,1003,Ngunguru
+9,Northland,2,Whangarei,3140,Oakleigh
+9,Northland,2,Whangarei,3127,Oakura Coast
+9,Northland,2,Whangarei,3141,One Tree Point
+9,Northland,2,Whangarei,1007,Onerahi
+9,Northland,2,Whangarei,1744,Otaika
+9,Northland,2,Whangarei,1443,Otangarei
+9,Northland,2,Whangarei,1519,Parahaki
+9,Northland,2,Whangarei,1006,Parua Bay
+9,Northland,2,Whangarei,1005,Pataua
+9,Northland,2,Whangarei,3142,Pataua North
+9,Northland,2,Whangarei,3143,Pataua South
+9,Northland,2,Whangarei,1575,Poroti
+9,Northland,2,Whangarei,1555,Port Whangarei
+9,Northland,2,Whangarei,1641,Portland
+9,Northland,2,Whangarei,1429,Raumanga
+9,Northland,2,Whangarei,3130,Regent
+9,Northland,2,Whangarei,3472,Riponui
+9,Northland,2,Whangarei,1880,Riverside
+9,Northland,2,Whangarei,1792,Ruakaka
+9,Northland,2,Whangarei,3108,Ruatangata
+9,Northland,2,Whangarei,1546,Sherwood Rise
+9,Northland,2,Whangarei,1879,Springs Flat
+9,Northland,2,Whangarei,3113,Tamaterau
+9,Northland,2,Whangarei,1425,Three Mile Bush
+9,Northland,2,Whangarei,1442,Tikipunga
+9,Northland,2,Whangarei,3191,Titoki
+9,Northland,2,Whangarei,1451,Toetoe
+9,Northland,2,Whangarei,1967,Tutukaka
+9,Northland,2,Whangarei,1883,Vinetown
+9,Northland,2,Whangarei,3315,Waikaraka
+9,Northland,2,Whangarei,3316,Waikiekie
+9,Northland,2,Whangarei,1812,Waiotira
+9,Northland,2,Whangarei,1814,Waipu
+9,Northland,2,Whangarei,1815,Waipu Cove
+9,Northland,2,Whangarei,1964,Whakapara
+9,Northland,2,Whangarei,1002,Whananaki
+9,Northland,2,Whangarei,3246,Whangarei
+9,Northland,2,Whangarei,1642,Whangarei Heads
+9,Northland,2,Whangarei,1954,Whangaruru
+9,Northland,2,Whangarei,1419,Whareora
+9,Northland,2,Whangarei,1640,Whatitiri
+9,Northland,2,Whangarei,1441,Whau Valley
+9,Northland,2,Whangarei,3441,Wheki Valley
+9,Northland,2,Whangarei,1657,Woodhill
+10,Otago,69,Central Otago,2296,Alexandra
+10,Otago,69,Central Otago,2297,Clyde
+10,Otago,69,Central Otago,2298,Cromwell
+10,Otago,69,Central Otago,1975,Ettrick
+10,Otago,69,Central Otago,3381,Ida Valley
+10,Otago,69,Central Otago,3461,Lauder
+10,Otago,69,Central Otago,3462,Millers Flat
+10,Otago,69,Central Otago,1729,Naseby
+10,Otago,69,Central Otago,1676,Omakau
+10,Otago,69,Central Otago,3448,Ophir
+10,Otago,69,Central Otago,1679,Oturehua
+10,Otago,69,Central Otago,1730,Ranfurly
+10,Otago,69,Central Otago,1976,Roxburgh
+10,Otago,69,Central Otago,1675,Tarras
+10,Otago,69,Central Otago,1680,Wedderburn
+10,Otago,72,Clutha,2106,Balclutha
+10,Otago,72,Clutha,1587,Clinton
+10,Otago,72,Clutha,2415,Kaitangata
+10,Otago,72,Clutha,1900,Kaka Point
+10,Otago,72,Clutha,1632,Lawrence
+10,Otago,72,Clutha,1897,Milton
+10,Otago,72,Clutha,1489,Owaka
+10,Otago,72,Clutha,3387,Pounawea
+10,Otago,72,Clutha,3344,Taieri Mouth
+10,Otago,72,Clutha,1634,Tapanui
+10,Otago,72,Clutha,1463,Taumata
+10,Otago,72,Clutha,1631,Tuapeka Mouth
+10,Otago,72,Clutha,2559,Waihola
+10,Otago,72,Clutha,1588,Wairuna
+10,Otago,72,Clutha,1462,Waiwera South
+10,Otago,71,Dunedin,2012,Abbotsford
+10,Otago,71,Dunedin,2288,Allanton
+10,Otago,71,Dunedin,3031,Andersons Bay
+10,Otago,71,Dunedin,1470,Aramoana
+10,Otago,71,Dunedin,1808,Balaclava
+10,Otago,71,Dunedin,1805,Belleknowes
+10,Otago,71,Dunedin,1972,Berwick
+10,Otago,71,Dunedin,1806,Bradford
+10,Otago,71,Dunedin,2056,Brighton
+10,Otago,71,Dunedin,3022,Broad Bay
+10,Otago,71,Dunedin,2013,Brockville
+10,Otago,71,Dunedin,1810,Calton Hill
+10,Otago,71,Dunedin,1809,Caversham
+10,Otago,71,Dunedin,3038,City Centre
+10,Otago,71,Dunedin,1807,Clyde Hill
+10,Otago,71,Dunedin,3023,Company Bay
+10,Otago,71,Dunedin,2378,Concord
+10,Otago,71,Dunedin,2011,Corstorphine
+10,Otago,71,Dunedin,1988,Dalmore
+10,Otago,71,Dunedin,3463,Doctors Point
+10,Otago,71,Dunedin,3057,East Taieri
+10,Otago,71,Dunedin,2070,Fairfield
+10,Otago,71,Dunedin,2015,Glenleith
+10,Otago,71,Dunedin,1947,Glenross
+10,Otago,71,Dunedin,1903,Green Island
+10,Otago,71,Dunedin,2014,Halfway Bush
+10,Otago,71,Dunedin,971,Harington Point
+10,Otago,71,Dunedin,1889,Harwood
+10,Otago,71,Dunedin,1908,Helensburgh
+10,Otago,71,Dunedin,2528,Henley
+10,Otago,71,Dunedin,2017,Heyward Point
+10,Otago,71,Dunedin,1825,Highcliff
+10,Otago,71,Dunedin,1877,Hindon
+10,Otago,71,Dunedin,1946,Kaikorai
+10,Otago,71,Dunedin,3211,Kaikorai Valley
+10,Otago,71,Dunedin,459,Karitane
+10,Otago,71,Dunedin,1904,Kenmure
+10,Otago,71,Dunedin,1907,Kensington
+10,Otago,71,Dunedin,1832,Kew
+10,Otago,71,Dunedin,2102,Kinmont Park
+10,Otago,71,Dunedin,2016,Leith Valley
+10,Otago,71,Dunedin,1987,Liberton
+10,Otago,71,Dunedin,1944,Littlebourne
+10,Otago,71,Dunedin,3362,Long Beach
+10,Otago,71,Dunedin,3024,Macandrew Bay
+10,Otago,71,Dunedin,3464,Maia
+10,Otago,71,Dunedin,1942,Maori Hill
+10,Otago,71,Dunedin,1906,Maryhill
+10,Otago,71,Dunedin,1582,Maungatua
+10,Otago,71,Dunedin,1844,Middlemarch
+10,Otago,71,Dunedin,1905,Mornington
+10,Otago,71,Dunedin,2103,Mosgiel
+10,Otago,71,Dunedin,1720,Mount Mera
+10,Otago,71,Dunedin,3386,Mt Cargill
+10,Otago,71,Dunedin,1839,Musselburgh
+10,Otago,71,Dunedin,2343,Normanby
+10,Otago,71,Dunedin,3037,North Dunedin
+10,Otago,71,Dunedin,2429,North East Valley
+10,Otago,71,Dunedin,2104,North Taieri
+10,Otago,71,Dunedin,1826,Ocean Grove
+10,Otago,71,Dunedin,2068,Ocean View
+10,Otago,71,Dunedin,1989,Opoho
+10,Otago,71,Dunedin,3363,Osborne
+10,Otago,71,Dunedin,3192,Otago Peninsula
+10,Otago,71,Dunedin,969,Otakou
+10,Otago,71,Dunedin,2433,Otokia
+10,Otago,71,Dunedin,1585,Outram
+10,Otago,71,Dunedin,2457,Pine Hill
+10,Otago,71,Dunedin,2176,Port Chalmers
+10,Otago,71,Dunedin,1887,Portobello
+10,Otago,71,Dunedin,1490,Purakaunui
+10,Otago,71,Dunedin,3032,Ravensbourne
+10,Otago,71,Dunedin,3036,Roseneath
+10,Otago,71,Dunedin,1945,Roslyn
+10,Otago,71,Dunedin,3380,Saddle Hill
+10,Otago,71,Dunedin,1469,Saint Clair
+10,Otago,71,Dunedin,1949,Saint Clair Park
+10,Otago,71,Dunedin,1831,Saint Kilda
+10,Otago,71,Dunedin,3035,Saint Leonards
+10,Otago,71,Dunedin,2209,Sawyers Bay
+10,Otago,71,Dunedin,2289,Scroggs Hill
+10,Otago,71,Dunedin,1747,Shiel Hill
+10,Otago,71,Dunedin,3039,South Dunedin
+10,Otago,71,Dunedin,1418,Tainui
+10,Otago,71,Dunedin,3027,The Cove
+10,Otago,71,Dunedin,2432,Waikouaiti
+10,Otago,71,Dunedin,2430,Waitati
+10,Otago,71,Dunedin,1941,Wakari
+10,Otago,71,Dunedin,1427,Waldronville
+10,Otago,71,Dunedin,458,Warrington
+10,Otago,71,Dunedin,3028,Waverley
+10,Otago,71,Dunedin,3274,Westgate
+10,Otago,71,Dunedin,2069,Westwood
+10,Otago,71,Dunedin,2344,Woodhaugh
+10,Otago,70,Queenstown-Lakes,3193,Albert Town
+10,Otago,70,Queenstown-Lakes,2330,Arrow Junction
+10,Otago,70,Queenstown-Lakes,2329,Arrowtown
+10,Otago,70,Queenstown-Lakes,1746,Arthurs Point
+10,Otago,70,Queenstown-Lakes,1849,Boydtown
+10,Otago,70,Queenstown-Lakes,2327,Cardrona
+10,Otago,70,Queenstown-Lakes,3149,Closeburn
+10,Otago,70,Queenstown-Lakes,2328,Crown Terrace
+10,Otago,70,Queenstown-Lakes,3150,Dalefield
+10,Otago,70,Queenstown-Lakes,1848,Fernhill
+10,Otago,70,Queenstown-Lakes,953,Frankton
+10,Otago,70,Queenstown-Lakes,1508,Gibbston
+10,Otago,70,Queenstown-Lakes,2301,Glenorchy
+10,Otago,70,Queenstown-Lakes,3151,Goldfield Heights
+10,Otago,70,Queenstown-Lakes,3276,Jacks Point
+10,Otago,70,Queenstown-Lakes,952,Kelvin Peninsula
+10,Otago,70,Queenstown-Lakes,1510,Kingston
+10,Otago,70,Queenstown-Lakes,2100,Lake Hawea
+10,Otago,70,Queenstown-Lakes,3090,Lake Hayes
+10,Otago,70,Queenstown-Lakes,2141,Lake Wakatipu
+10,Otago,70,Queenstown-Lakes,1505,Lower Shotover
+10,Otago,70,Queenstown-Lakes,3093,Luggate
+10,Otago,70,Queenstown-Lakes,1725,Makarora
+10,Otago,70,Queenstown-Lakes,1674,Queenstown East
+10,Otago,70,Queenstown-Lakes,3145,Queenstown Hill
+10,Otago,70,Queenstown-Lakes,1847,Sunshine Bay
+10,Otago,70,Queenstown-Lakes,955,Town Centre
+10,Otago,70,Queenstown-Lakes,2303,Wanaka
+10,Otago,79,South Otago,3354,Stirling
+10,Otago,68,Waitaki,3402,Alma
+10,Otago,68,Waitaki,1931,Awamoko
+10,Otago,68,Waitaki,1734,Dunback
+10,Otago,68,Waitaki,2862,Duntroon
+10,Otago,68,Waitaki,1754,Enfield
+10,Otago,68,Waitaki,3442,Glenavy
+10,Otago,68,Waitaki,2554,Hampden
+10,Otago,68,Waitaki,2556,Herbert
+10,Otago,68,Waitaki,47,Kakanui
+10,Otago,68,Waitaki,2167,Kurow
+10,Otago,68,Waitaki,3091,Lake Ohau
+10,Otago,68,Waitaki,2368,Maheno
+10,Otago,68,Waitaki,2479,Makikihi
+10,Otago,68,Waitaki,2553,Moeraki
+10,Otago,68,Waitaki,1688,Ngapara
+10,Otago,68,Waitaki,2372,Oamaru
+10,Otago,68,Waitaki,3097,Omarama
+10,Otago,68,Waitaki,3059,Otematata
+10,Otago,68,Waitaki,2519,Palmerston
+10,Otago,68,Waitaki,2038,Pukeuri
+10,Otago,68,Waitaki,2036,Sailors Cutting
+10,Otago,68,Waitaki,2371,South Oamaru
+10,Otago,68,Waitaki,2366,Taranui
+10,Otago,68,Waitaki,3401,Totara
+10,Otago,68,Waitaki,2334,Twizel
+10,Otago,68,Waitaki,2373,Waiareka
+10,Otago,68,Waitaki,3465,Waihemo
+10,Otago,68,Waitaki,1727,Weston
+10,Otago,68,Waitaki,3400,Windsor
+11,Southland,78,Catlins,3237,Waikawa Valley
+11,Southland,74,Gore,1985,Gore
+11,Southland,74,Gore,2023,Mataura
+11,Southland,75,Invercargill,3064,Appleby
+11,Southland,75,Invercargill,3467,Ascot
+11,Southland,75,Invercargill,3065,Avenal
+11,Southland,75,Invercargill,2450,Bluff
+11,Southland,75,Invercargill,2052,City Centre
+11,Southland,75,Invercargill,2536,Clifton
+11,Southland,75,Invercargill,3076,Georgetown
+11,Southland,75,Invercargill,2532,Gladstone
+11,Southland,75,Invercargill,2533,Glengarry
+11,Southland,75,Invercargill,3078,Grasmere
+11,Southland,75,Invercargill,3468,Hargest
+11,Southland,75,Invercargill,3081,Hawthorndale
+11,Southland,75,Invercargill,3082,Heidelberg
+11,Southland,75,Invercargill,3373,Invercargill
+11,Southland,75,Invercargill,2140,Kennington
+11,Southland,75,Invercargill,2080,Kew
+11,Southland,75,Invercargill,3088,Kingswell
+11,Southland,75,Invercargill,3340,Lorneville
+11,Southland,75,Invercargill,3416,Mabel Bush
+11,Southland,75,Invercargill,1479,Makarewa
+11,Southland,75,Invercargill,2413,Mataura Island
+11,Southland,75,Invercargill,3152,Myross Bush
+11,Southland,75,Invercargill,2537,Newfield
+11,Southland,75,Invercargill,1480,Otatara
+11,Southland,75,Invercargill,3153,Richmond
+11,Southland,75,Invercargill,3136,Rosedale
+11,Southland,75,Invercargill,3238,Roslyn Bush
+11,Southland,75,Invercargill,3137,Strathern
+11,Southland,75,Invercargill,2535,Tisbury
+11,Southland,75,Invercargill,2534,Waikiwi
+11,Southland,75,Invercargill,3474,Wallacetown
+11,Southland,75,Invercargill,3475,Waverley
+11,Southland,75,Invercargill,3372,West Plains
+11,Southland,75,Invercargill,3154,Windsor
+11,Southland,75,Invercargill,2452,Woodend
+11,Southland,73,Southland,2081,Athol
+11,Southland,73,Southland,3369,Balfour
+11,Southland,73,Southland,2445,Browns
+11,Southland,73,Southland,3342,Centre Bush
+11,Southland,73,Southland,3069,Colac Bay
+11,Southland,73,Southland,3383,Dipton
+11,Southland,73,Southland,2421,Dipton West
+11,Southland,73,Southland,2420,Drummond
+11,Southland,73,Southland,2428,Edendale
+11,Southland,73,Southland,3417,Garston
+11,Southland,73,Southland,3341,Isla Bank
+11,Southland,73,Southland,2446,Limehills
+11,Southland,73,Southland,2447,Lumsden
+11,Southland,73,Southland,2540,Manapouri
+11,Southland,73,Southland,2440,Mossburn
+11,Southland,73,Southland,1473,Nightcaps
+11,Southland,73,Southland,2084,Oban
+11,Southland,73,Southland,1472,Ohai
+11,Southland,73,Southland,1476,Orepuki
+11,Southland,73,Southland,1474,Otautau
+11,Southland,73,Southland,2448,Riversdale
+11,Southland,73,Southland,1477,Riverton
+11,Southland,73,Southland,1484,Ryal Bush
+11,Southland,73,Southland,2028,Stewart Island
+11,Southland,73,Southland,2539,Te Anau
+11,Southland,73,Southland,1482,Thornbury
+11,Southland,73,Southland,2438,Tokanui
+11,Southland,73,Southland,1475,Tuatapere
+11,Southland,73,Southland,3466,Waianiwa
+11,Southland,73,Southland,2449,Waikaia
+11,Southland,73,Southland,2426,Waituna
+11,Southland,73,Southland,1478,Wallacetown
+11,Southland,73,Southland,3138,Waverley
+11,Southland,73,Southland,1485,Winton
+11,Southland,73,Southland,2114,Woodlands
+11,Southland,73,Southland,2112,Wyndham
+12,Taranaki,33,New Plymouth,926,Bell Block
+12,Taranaki,33,New Plymouth,3290,Blagdon
+12,Taranaki,33,New Plymouth,1395,Brixton
+12,Taranaki,33,New Plymouth,1175,Brooklands
+12,Taranaki,33,New Plymouth,1225,City Centre
+12,Taranaki,33,New Plymouth,1121,Egmont Village
+12,Taranaki,33,New Plymouth,2026,Ferndale
+12,Taranaki,33,New Plymouth,1246,Fitzroy
+12,Taranaki,33,New Plymouth,1043,Frankleigh Park
+12,Taranaki,33,New Plymouth,1247,Glen Avon
+12,Taranaki,33,New Plymouth,1173,Highlands Park
+12,Taranaki,33,New Plymouth,3084,Hurdon
+12,Taranaki,33,New Plymouth,919,Hurworth
+12,Taranaki,33,New Plymouth,1122,Inglewood
+12,Taranaki,33,New Plymouth,917,Lepperton
+12,Taranaki,33,New Plymouth,3261,Lynmouth
+12,Taranaki,33,New Plymouth,3194,Mangorei
+12,Taranaki,33,New Plymouth,3212,Marfell
+12,Taranaki,33,New Plymouth,1248,Merrilands
+12,Taranaki,33,New Plymouth,1315,Mokau
+12,Taranaki,33,New Plymouth,1224,Moturoa
+12,Taranaki,33,New Plymouth,3382,New Plymouth
+12,Taranaki,33,New Plymouth,1325,Oakura
+12,Taranaki,33,New Plymouth,1074,Okato
+12,Taranaki,33,New Plymouth,1537,Omata
+12,Taranaki,33,New Plymouth,1392,Onaero
+12,Taranaki,33,New Plymouth,3242,Royal Heights
+12,Taranaki,33,New Plymouth,1042,Spotswood
+12,Taranaki,33,New Plymouth,1245,Strandon
+12,Taranaki,33,New Plymouth,1145,Tariki
+12,Taranaki,33,New Plymouth,3195,Tikorangi
+12,Taranaki,33,New Plymouth,954,Urenui
+12,Taranaki,33,New Plymouth,1174,Vogeltown
+12,Taranaki,33,New Plymouth,1394,Waitara
+12,Taranaki,33,New Plymouth,3117,Welbourn
+12,Taranaki,33,New Plymouth,1144,Westown
+12,Taranaki,33,New Plymouth,1041,Whalers Gate
+12,Taranaki,35,South Taranaki,1032,Alton
+12,Taranaki,35,South Taranaki,1177,Eltham
+12,Taranaki,35,South Taranaki,1125,Hawera
+12,Taranaki,35,South Taranaki,772,Kaponga
+12,Taranaki,35,South Taranaki,2522,Manaia
+12,Taranaki,35,South Taranaki,1238,Normanby
+12,Taranaki,35,South Taranaki,2523,Okaiawa
+12,Taranaki,35,South Taranaki,1358,Opunake
+12,Taranaki,35,South Taranaki,1033,Patea
+12,Taranaki,35,South Taranaki,2561,Pungarehu
+12,Taranaki,35,South Taranaki,1503,Tokaora
+12,Taranaki,35,South Taranaki,1171,Waitotara
+12,Taranaki,35,South Taranaki,1253,Warea
+12,Taranaki,35,South Taranaki,1034,Waverley
+12,Taranaki,35,South Taranaki,3243,Whareroa
+12,Taranaki,34,Stratford,1146,Midhurst
+12,Taranaki,34,Stratford,3368,Stratford
+12,Taranaki,34,Stratford,1254,Stratford East
+12,Taranaki,34,Stratford,1255,Stratford West
+12,Taranaki,34,Stratford,1147,Toko
+14,Waikato,16,Hamilton,3278,Bader
+14,Waikato,16,Hamilton,1304,Beerescourt
+14,Waikato,16,Hamilton,1268,Chartwell
+14,Waikato,16,Hamilton,976,Chedworth Park
+14,Waikato,16,Hamilton,1266,Claudelands
+14,Waikato,16,Hamilton,1025,Deanwell
+14,Waikato,16,Hamilton,1380,Dinsdale
+14,Waikato,16,Hamilton,1185,Enderley
+14,Waikato,16,Hamilton,1267,Fairfield
+14,Waikato,16,Hamilton,1184,Fairview Downs
+14,Waikato,16,Hamilton,1239,Fitzroy
+14,Waikato,16,Hamilton,974,Flagstaff
+14,Waikato,16,Hamilton,1152,Forest Lake
+14,Waikato,16,Hamilton,1244,Frankton
+14,Waikato,16,Hamilton,1366,Glenview
+14,Waikato,16,Hamilton,3215,Hamilton City Central
+14,Waikato,16,Hamilton,1240,Hamilton East
+14,Waikato,16,Hamilton,1381,Hamilton North
+14,Waikato,16,Hamilton,1243,Hamilton West
+14,Waikato,16,Hamilton,3223,Harrowfield
+14,Waikato,16,Hamilton,1241,Hillcrest
+14,Waikato,16,Hamilton,777,Horsham Downs
+14,Waikato,16,Hamilton,1382,Livingstone
+14,Waikato,16,Hamilton,1153,Maeroa
+14,Waikato,16,Hamilton,1024,Melville
+14,Waikato,16,Hamilton,1151,Nawton
+14,Waikato,16,Hamilton,1270,Pukete
+14,Waikato,16,Hamilton,975,Queenwood
+14,Waikato,16,Hamilton,3446,Riverlea
+14,Waikato,16,Hamilton,3306,Rotokauri 
+14,Waikato,16,Hamilton,3107,Rototuna
+14,Waikato,16,Hamilton,3270,Ruakura
+14,Waikato,16,Hamilton,3236,Rukuhia
+14,Waikato,16,Hamilton,1305,Saint Andrews
+14,Waikato,16,Hamilton,1186,Silverdale
+14,Waikato,16,Hamilton,1269,Te Rapa
+14,Waikato,16,Hamilton,2764,Temple View
+14,Waikato,16,Hamilton,3224,Thornton Estate
+14,Waikato,16,Hamilton,1150,Western Heights
+14,Waikato,16,Hamilton,1265,Whitiora
+14,Waikato,12,Hauraki,649,Kerepehi
+14,Waikato,12,Hauraki,846,Netherton
+14,Waikato,12,Hauraki,648,Ngatea
+14,Waikato,12,Hauraki,847,Paeroa
+14,Waikato,12,Hauraki,763,Turua
+14,Waikato,12,Hauraki,460,Waihi
+14,Waikato,12,Hauraki,453,Waihi East
+14,Waikato,12,Hauraki,597,Waikino
+14,Waikato,12,Hauraki,765,Whiritoa
+14,Waikato,15,Matamata-Piako,824,Mangateparu
+14,Waikato,15,Matamata-Piako,859,Matamata
+14,Waikato,15,Matamata-Piako,538,Morrinsville
+14,Waikato,15,Matamata-Piako,722,Patetonga
+14,Waikato,15,Matamata-Piako,595,Springdale
+14,Waikato,15,Matamata-Piako,848,Tahuna
+14,Waikato,15,Matamata-Piako,987,Te Aroha
+14,Waikato,15,Matamata-Piako,862,Te Poi
+14,Waikato,15,Matamata-Piako,723,Waharoa
+14,Waikato,15,Matamata-Piako,827,Waihou
+14,Waikato,15,Matamata-Piako,1160,Walton
+14,Waikato,18,Otorohanga,674,Kawhia
+14,Waikato,18,Otorohanga,688,Otorohanga
+14,Waikato,19,South Waikato,880,Hodderville
+14,Waikato,19,South Waikato,831,Lichfield
+14,Waikato,19,South Waikato,832,Ngatira
+14,Waikato,19,South Waikato,803,Putaruru
+14,Waikato,19,South Waikato,863,Tirau
+14,Waikato,19,South Waikato,834,Tokoroa
+14,Waikato,19,South Waikato,833,Wiltsdown
+14,Waikato,21,Taupo,1106,Acacia Bay
+14,Waikato,21,Taupo,1330,Hilltop
+14,Waikato,21,Taupo,3196,Invergarry
+14,Waikato,21,Taupo,1298,Kinloch
+14,Waikato,21,Taupo,1103,Kuratau
+14,Waikato,21,Taupo,1715,Lake Taupo
+14,Waikato,21,Taupo,787,Mangakino
+14,Waikato,21,Taupo,1102,Motuoapa
+14,Waikato,21,Taupo,1107,Nukuhau
+14,Waikato,21,Taupo,3266,Omori
+14,Waikato,21,Taupo,1351,Oruanui
+14,Waikato,21,Taupo,3405,Oruatua
+14,Waikato,21,Taupo,3244,Pukawa
+14,Waikato,21,Taupo,1299,Rainbow Point
+14,Waikato,21,Taupo,3221,Richmond Heights
+14,Waikato,21,Taupo,1023,Tauhara
+14,Waikato,21,Taupo,1109,Te Rangiita
+14,Waikato,21,Taupo,791,Tongariro
+14,Waikato,21,Taupo,1301,Town Centre
+14,Waikato,21,Taupo,1101,Turangi
+14,Waikato,21,Taupo,1300,Waipahihi
+14,Waikato,21,Taupo,994,Wairakei
+14,Waikato,21,Taupo,1264,Waitahanui
+14,Waikato,21,Taupo,3404,Waitetoko
+14,Waikato,21,Taupo,1108,Wharewaka
+14,Waikato,11,Thames-Coromandel,618,Cooks Beach
+14,Waikato,11,Thames-Coromandel,624,Coroglen
+14,Waikato,11,Thames-Coromandel,728,Coromandel
+14,Waikato,11,Thames-Coromandel,3323,Flaxmill Bay
+14,Waikato,11,Thames-Coromandel,625,Hahei
+14,Waikato,11,Thames-Coromandel,3283,Hikutaia 
+14,Waikato,11,Thames-Coromandel,623,Hot Water Beach
+14,Waikato,11,Thames-Coromandel,610,Kopu
+14,Waikato,11,Thames-Coromandel,3213,Kuaotunu Beach
+14,Waikato,11,Thames-Coromandel,629,Matarangi
+14,Waikato,11,Thames-Coromandel,3285,Matatoki 
+14,Waikato,11,Thames-Coromandel,761,Onemana
+14,Waikato,11,Thames-Coromandel,627,Opito
+14,Waikato,11,Thames-Coromandel,1978,Otama
+14,Waikato,11,Thames-Coromandel,2723,Pauanui
+14,Waikato,11,Thames-Coromandel,794,Port Charles
+14,Waikato,11,Thames-Coromandel,3282,Puriri 
+14,Waikato,11,Thames-Coromandel,619,Tairua
+14,Waikato,11,Thames-Coromandel,606,Tapu
+14,Waikato,11,Thames-Coromandel,607,Te Puru
+14,Waikato,11,Thames-Coromandel,608,Thames
+14,Waikato,11,Thames-Coromandel,762,Whangamata
+14,Waikato,11,Thames-Coromandel,630,Whangapoua
+14,Waikato,11,Thames-Coromandel,622,Whenuakite
+14,Waikato,11,Thames-Coromandel,2683,Whitianga
+14,Waikato,13,Waikato,902,Eureka
+14,Waikato,13,Waikato,669,Glen Murray
+14,Waikato,13,Waikato,1089,Gordonton
+14,Waikato,13,Waikato,805,Horotiu
+14,Waikato,13,Waikato,592,Huntly
+14,Waikato,13,Waikato,1091,Kainui
+14,Waikato,13,Waikato,896,Matangi
+14,Waikato,13,Waikato,662,Meremere
+14,Waikato,13,Waikato,1084,Miranda
+14,Waikato,13,Waikato,897,Newstead
+14,Waikato,13,Waikato,1088,Ngaruawahia
+14,Waikato,13,Waikato,675,Oparau
+14,Waikato,13,Waikato,775,Puketaha
+14,Waikato,13,Waikato,850,Raglan
+14,Waikato,13,Waikato,714,Rangiriri
+14,Waikato,13,Waikato,3267,Rotongaro
+14,Waikato,13,Waikato,890,Tamahere
+14,Waikato,13,Waikato,1092,Taupiri
+14,Waikato,13,Waikato,1278,Tauwhare
+14,Waikato,13,Waikato,713,Te Kauwhata
+14,Waikato,13,Waikato,1060,Te Kowhai
+14,Waikato,13,Waikato,3271,Te Uku
+14,Waikato,13,Waikato,3197,Waikato Surrounds
+14,Waikato,13,Waikato,1183,Whakamaru
+14,Waikato,13,Waikato,768,Whatawhata
+14,Waikato,13,Waikato,820,Whitikahu
+14,Waikato,17,Waipa,696,Cambridge
+14,Waikato,17,Waipa,864,Horahora
+14,Waikato,17,Waipa,796,Karamu
+14,Waikato,17,Waipa,885,Karapiro
+14,Waikato,17,Waipa,1625,Kihikihi
+14,Waikato,17,Waipa,3403,Koromatua
+14,Waikato,17,Waipa,884,Leamington
+14,Waikato,17,Waipa,797,Ngahinapouri
+14,Waikato,17,Waipa,756,Ohaupo
+14,Waikato,17,Waipa,753,Pirongia
+14,Waikato,17,Waipa,695,Pukekura
+14,Waikato,17,Waipa,3307,Rukuhia 
+14,Waikato,17,Waipa,1624,Te Awamutu
+14,Waikato,17,Waipa,798,Te Pahu
+14,Waikato,17,Waipa,754,Te Rore
+14,Waikato,20,Waitomo,815,Awakino
+14,Waikato,20,Waitomo,749,Piopio
+14,Waikato,20,Waitomo,786,Te Kuiti
+15,Wellington,49,Carterton,1656,Carterton
+15,Wellington,43,Kapiti Coast,999,Otaihanga
+15,Wellington,43,Kapiti Coast,2640,Otaki
+15,Wellington,43,Kapiti Coast,1211,Otaki Beach
+15,Wellington,43,Kapiti Coast,1650,Paekakariki
+15,Wellington,43,Kapiti Coast,1762,Paraparaumu
+15,Wellington,43,Kapiti Coast,1446,Paraparaumu Beach
+15,Wellington,43,Kapiti Coast,3099,Peka Peka
+15,Wellington,43,Kapiti Coast,1652,Raumati Beach
+15,Wellington,43,Kapiti Coast,1651,Raumati South
+15,Wellington,43,Kapiti Coast,1802,Te Horo
+15,Wellington,43,Kapiti Coast,1445,Waikanae
+15,Wellington,43,Kapiti Coast,998,Waikanae Beach
+15,Wellington,46,Lower Hutt,2124,Alicetown
+15,Wellington,46,Lower Hutt,1618,Avalon
+15,Wellington,46,Lower Hutt,2122,Belmont
+15,Wellington,46,Lower Hutt,2123,Boulcott
+15,Wellington,46,Lower Hutt,1428,Days Bay
+15,Wellington,46,Lower Hutt,2116,Eastbourne
+15,Wellington,46,Lower Hutt,2118,Epuni
+15,Wellington,46,Lower Hutt,1767,Fairfield
+15,Wellington,46,Lower Hutt,1872,Gracefield
+15,Wellington,46,Lower Hutt,2120,Harbour View
+15,Wellington,46,Lower Hutt,1416,Holborn
+15,Wellington,46,Lower Hutt,1620,Kelson
+15,Wellington,46,Lower Hutt,1435,Korokoro
+15,Wellington,46,Lower Hutt,1654,Lower Hutt
+15,Wellington,46,Lower Hutt,3331,Lowry Bay
+15,Wellington,46,Lower Hutt,1745,Mahina Bay
+15,Wellington,46,Lower Hutt,1388,Manor Park
+15,Wellington,46,Lower Hutt,1460,Maungaraki
+15,Wellington,46,Lower Hutt,3350,Melling
+15,Wellington,46,Lower Hutt,1871,Moera
+15,Wellington,46,Lower Hutt,2079,Muritai
+15,Wellington,46,Lower Hutt,1619,Naenae
+15,Wellington,46,Lower Hutt,2119,Normandale
+15,Wellington,46,Lower Hutt,3351,Park Avenue
+15,Wellington,46,Lower Hutt,1448,Petone
+15,Wellington,46,Lower Hutt,2117,Rona Bay
+15,Wellington,46,Lower Hutt,1873,Seaview
+15,Wellington,46,Lower Hutt,1841,Stokes Valley
+15,Wellington,46,Lower Hutt,3364,Sunshine Bay
+15,Wellington,46,Lower Hutt,1415,Taita
+15,Wellington,46,Lower Hutt,2121,Tirohanga
+15,Wellington,46,Lower Hutt,1765,Wainuiomata
+15,Wellington,46,Lower Hutt,1766,Waiwhetu
+15,Wellington,46,Lower Hutt,924,Waterloo
+15,Wellington,46,Lower Hutt,1449,Woburn
+15,Wellington,46,Lower Hutt,1763,York Bay
+15,Wellington,48,Masterton,3349,Castlepoint
+15,Wellington,48,Masterton,3434,Flat Point
+15,Wellington,48,Masterton,2579,Masterton
+15,Wellington,48,Masterton,3106,Riversdale Beach
+15,Wellington,44,Porirua,3198,Aotea
+15,Wellington,44,Porirua,1520,Ascot Park
+15,Wellington,44,Porirua,985,Camborne
+15,Wellington,44,Porirua,2172,Cannons Creek
+15,Wellington,44,Porirua,1929,Elsdon
+15,Wellington,44,Porirua,1491,Karehana Bay
+15,Wellington,44,Porirua,973,Linden
+15,Wellington,44,Porirua,2783,Mana
+15,Wellington,44,Porirua,1948,Papakowhai
+15,Wellington,44,Porirua,2785,Paremata
+15,Wellington,44,Porirua,1110,Pauatahanui
+15,Wellington,44,Porirua,1573,Plimmerton
+15,Wellington,44,Porirua,1433,Porirua
+15,Wellington,44,Porirua,1842,Porirua East
+15,Wellington,44,Porirua,1853,Pukerua Bay
+15,Wellington,44,Porirua,1447,Ranui Heights
+15,Wellington,44,Porirua,1334,Takapuwahia
+15,Wellington,44,Porirua,1515,Titahi Bay
+15,Wellington,44,Porirua,1434,Waitangirua
+15,Wellington,44,Porirua,1132,Whitby
+15,Wellington,50,South Wairarapa,3347,Cape Palliser
+15,Wellington,50,South Wairarapa,1803,Featherston
+15,Wellington,50,South Wairarapa,3375,Gladstone
+15,Wellington,50,South Wairarapa,1655,Greytown
+15,Wellington,50,South Wairarapa,875,Martinborough
+15,Wellington,50,South Wairarapa,3348,Ngawi
+15,Wellington,45,Upper Hutt,1758,Akatarawa
+15,Wellington,45,Upper Hutt,1212,Birchville
+15,Wellington,45,Upper Hutt,1799,Blue Mountains
+15,Wellington,45,Upper Hutt,1400,Brown Owl
+15,Wellington,45,Upper Hutt,3067,Clouston Park
+15,Wellington,45,Upper Hutt,3352,Ebdentown
+15,Wellington,45,Upper Hutt,3071,Elderslea
+15,Wellington,45,Upper Hutt,925,Heretaunga
+15,Wellington,45,Upper Hutt,3166,Kaitoke
+15,Wellington,45,Upper Hutt,1565,Kingsley Heights
+15,Wellington,45,Upper Hutt,3094,Mangaroa
+15,Wellington,45,Upper Hutt,1768,Maoribank
+15,Wellington,45,Upper Hutt,1399,Maymorn
+15,Wellington,45,Upper Hutt,3411,Mount Marua
+15,Wellington,45,Upper Hutt,3353,Pakuratahi
+15,Wellington,45,Upper Hutt,920,Pinehaven
+15,Wellington,45,Upper Hutt,1333,Riverstone Terraces
+15,Wellington,45,Upper Hutt,921,Silverstream
+15,Wellington,45,Upper Hutt,1703,Te Marua
+15,Wellington,45,Upper Hutt,1770,The Plateau
+15,Wellington,45,Upper Hutt,1769,Timberlea
+15,Wellington,45,Upper Hutt,2078,Totara Park
+15,Wellington,45,Upper Hutt,922,Trentham
+15,Wellington,45,Upper Hutt,1547,Upper Hutt
+15,Wellington,45,Upper Hutt,923,Wallaceville
+15,Wellington,45,Upper Hutt,1840,Whitemans Valley
+15,Wellington,47,Wellington,3047,Aro Valley
+15,Wellington,47,Wellington,1342,Berhampore
+15,Wellington,47,Wellington,3048,Breaker Bay
+15,Wellington,47,Wellington,951,Broadmeadows
+15,Wellington,47,Wellington,1018,Brooklyn
+15,Wellington,47,Wellington,1798,Chartwell
+15,Wellington,47,Wellington,1199,Churton Park
+15,Wellington,47,Wellington,1487,Crawford
+15,Wellington,47,Wellington,1653,Crofton Downs
+15,Wellington,47,Wellington,3164,Evans Bay
+15,Wellington,47,Wellington,3049,Glenside
+15,Wellington,47,Wellington,978,Grenada
+15,Wellington,47,Wellington,980,Grenada North
+15,Wellington,47,Wellington,3330,Grenada Village
+15,Wellington,47,Wellington,874,Hataitai
+15,Wellington,47,Wellington,1783,Highbury
+15,Wellington,47,Wellington,877,Horokiwi
+15,Wellington,47,Wellington,1784,Houghton Bay
+15,Wellington,47,Wellington,1785,Island Bay
+15,Wellington,47,Wellington,967,Johnsonville
+15,Wellington,47,Wellington,1760,Kaiwharawhara
+15,Wellington,47,Wellington,3050,Karaka Bays
+15,Wellington,47,Wellington,1117,Karori
+15,Wellington,47,Wellington,1345,Kelburn
+15,Wellington,47,Wellington,1797,Khandallah
+15,Wellington,47,Wellington,1294,Kilbirnie
+15,Wellington,47,Wellington,1568,Kingston
+15,Wellington,47,Wellington,1622,Kowhai Park
+15,Wellington,47,Wellington,1094,Lambton
+15,Wellington,47,Wellington,1930,Linden
+15,Wellington,47,Wellington,1795,Lyall Bay
+15,Wellington,47,Wellington,3043,Makara-Ohariu
+15,Wellington,47,Wellington,3042,Maupuia
+15,Wellington,47,Wellington,1567,Melrose
+15,Wellington,47,Wellington,1341,Miramar
+15,Wellington,47,Wellington,3051,Moa Point
+15,Wellington,47,Wellington,1343,Mornington
+15,Wellington,47,Wellington,1450,Mount Cook
+15,Wellington,47,Wellington,1326,Mount Victoria
+15,Wellington,47,Wellington,1538,Newlands
+15,Wellington,47,Wellington,1124,Newtown
+15,Wellington,47,Wellington,1761,Ngaio
+15,Wellington,47,Wellington,966,Ngauranga
+15,Wellington,47,Wellington,1017,Northland
+15,Wellington,47,Wellington,993,Ohariu
+15,Wellington,47,Wellington,3040,Oriental Bay
+15,Wellington,47,Wellington,1759,Owhiro Bay
+15,Wellington,47,Wellington,1560,Paparangi
+15,Wellington,47,Wellington,3053,Pipitea
+15,Wellington,47,Wellington,950,Raroa
+15,Wellington,47,Wellington,1852,Redwood
+15,Wellington,47,Wellington,1226,Rongotai
+15,Wellington,47,Wellington,1566,Roseneath
+15,Wellington,47,Wellington,1796,Seatoun
+15,Wellington,47,Wellington,1621,Seatoun Bays
+15,Wellington,47,Wellington,3226,Seatoun Heights
+15,Wellington,47,Wellington,930,Strathmore Park
+15,Wellington,47,Wellington,965,Tawa
+15,Wellington,47,Wellington,1486,Te Aro
+15,Wellington,47,Wellington,1559,Thorndon
+15,Wellington,47,Wellington,1344,Vogeltown
+15,Wellington,47,Wellington,1115,Wadestown
+15,Wellington,47,Wellington,3054,Wellington Central
+15,Wellington,47,Wellington,1019,Wilton
+15,Wellington,47,Wellington,2638,Woodridge
+16,West Coast,55,Buller,3120,Carters Beach
+16,West Coast,55,Buller,2412,Charleston
+16,West Coast,55,Buller,3121,Fairdown
+16,West Coast,55,Buller,3122,Granity
+16,West Coast,55,Buller,2582,Hector
+16,West Coast,55,Buller,2384,Karamea
+16,West Coast,55,Buller,3361,Millerton
+16,West Coast,55,Buller,3377,Ngakawau
+16,West Coast,55,Buller,2824,Punakaiki
+16,West Coast,55,Buller,2464,Reefton
+16,West Coast,55,Buller,3123,Seddonville
+16,West Coast,55,Buller,2467,Springs Junction
+16,West Coast,55,Buller,2581,Waimangaroa
+16,West Coast,55,Buller,2460,Westport
+16,West Coast,56,Grey,2473,Ahaura
+16,West Coast,56,Grey,2825,Barrytown
+16,West Coast,56,Grey,2471,Blackball
+16,West Coast,56,Grey,3066,Blaketown
+16,West Coast,56,Grey,3157,Camerons
+16,West Coast,56,Grey,3068,Cobden
+16,West Coast,56,Grey,2475,Dobson
+16,West Coast,56,Grey,3158,Dunollie
+16,West Coast,56,Grey,2481,Greymouth
+16,West Coast,56,Grey,2465,Ikamatua
+16,West Coast,56,Grey,3086,Karoro
+16,West Coast,56,Grey,3227,Lake Brunner
+16,West Coast,56,Grey,2382,Moana
+16,West Coast,56,Grey,3160,Nelson Creek
+16,West Coast,56,Grey,2474,Ngahere
+16,West Coast,56,Grey,2482,Paroa
+16,West Coast,56,Grey,3161,Rapahoe
+16,West Coast,56,Grey,2480,Runanga
+16,West Coast,56,Grey,3162,Rutherglen
+16,West Coast,56,Grey,3110,South Beach
+16,West Coast,56,Grey,3163,Taylorville
+16,West Coast,56,Grey,3155,Totara Flat
+16,West Coast,57,Westland,3156,Bruce Bay
+16,West Coast,57,Westland,2363,Fox Glacier
+16,West Coast,57,Westland,2443,Franz Josef
+16,West Coast,57,Westland,3079,Haast
+16,West Coast,57,Westland,2361,Harihari
+16,West Coast,57,Westland,2489,Hokitika
+16,West Coast,57,Westland,2386,Kaniere
+16,West Coast,57,Westland,3159,Kokatahi
+16,West Coast,57,Westland,2332,Kowhitirangi
+16,West Coast,57,Westland,2483,Kumara
+16,West Coast,57,Westland,2399,Moana
+16,West Coast,57,Westland,3378,Okarito
+16,West Coast,57,Westland,2364,Okuru
+16,West Coast,57,Westland,2333,Ross
+16,West Coast,57,Westland,3314,Whataroa 

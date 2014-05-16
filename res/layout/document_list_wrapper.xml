@@ -1,0 +1,10 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/wrap_y"
+    android:orientation="vertical" >
+<LinearLayout style="@style/banner.dlw" android:id="@+id/dlw_banner">
+    <TextView style="@style/banner_text" android:layout_weight="1" android:id="@+id/dlw_title"/>
+    <TextView style="@style/banner_text" android:layout_weight="1" android:textStyle="normal" android:id="@+id/dlw_subtitle"/>
+    <ImageView style="@style/more_icon" />
+</LinearLayout>
+        
+</LinearLayout>

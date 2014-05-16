@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	
+    <PreferenceCategory android:title="Server Details" >
+
+        <EditTextPreference
+            android:id="@+id/pref8"
+            android:defaultValue="192.168.1.71"
+            android:dialogIcon="@drawable/ic_server"
+            android:key="ServerName"
+            android:title="Server Name" >
+        </EditTextPreference>
+
+        <EditTextPreference
+            android:id="@+id/pref7"
+            android:defaultValue="8080"
+            android:dialogIcon="@drawable/ic_server"
+            android:key="ServerPort"
+            android:title="Server Port" >
+        </EditTextPreference>
+
+        <EditTextPreference
+            android:defaultValue=" "
+            android:key="Profile"
+            android:title="Profile"
+            android:summary="Computer profile name. Leave blank unless instructed by support" >
+        </EditTextPreference>
+        <EditTextPreference
+            android:id="@+id/pref6"
+            android:defaultValue=""
+            android:dialogIcon="@drawable/ic_user"
+            android:key="UserName"
+            android:title="User Name" >
+        </EditTextPreference>
+
+        <EditTextPreference
+            android:id="@+id/pref5"
+            android:defaultValue=""
+            android:dialogIcon="@drawable/ic_lock"
+            android:key="Password"
+            android:inputType="textPassword"
+            android:title="Password" >
+        </EditTextPreference>
+
+        <EditTextPreference
+            android:id="@+id/pref4"
+            android:defaultValue="5"
+            android:dialogIcon="@drawable/ic_photos"
+            android:key="MaxPhotos"
+            android:title="Maximum Photos" >
+        </EditTextPreference>
+        <ListPreference android:entryValues="@array/pref_mediadownload_values" android:entries="@array/pref_mediadownload_entries" android:title="Media files to download" android:defaultValue="1" android:key="MediaToDownload"/>        
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Data" >
+
+        <Preference
+            android:key="syncServer"
+            android:title="Sync with server" />
+
+        <Preference
+            android:key="clearAllData"
+            android:title="Clear all data" />
+
+        <Preference
+            android:key="clearDB"
+            android:title="Delete database" />
+
+        <Preference
+            android:key="clearFiles"
+            android:title="Delete all files" />
+        
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Listings" >
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="showSearchPrice"
+            android:summary="Price sorting relies on search prices."
+            android:title="Show search price" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="showListedBy"
+            android:summary=""
+            android:title="Show Listed By" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="showListedDate"
+            android:summary=""
+            android:title="Show Listed Date" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="hidePrivate"
+            android:summary="Minimize Legal Discription, Vendor Details and Private Features by default."
+            android:title="Hide private details" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="scaleupPhoto"
+            android:summary="Scale up photos smaller than the screen size to allow fullscreen view. May pixelate on larger devices."
+            android:title="Scale up photos" />
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="timerPasswordCheck"
+            android:summary="A password will be required ot open private details and will unlock them for 15 minutes"
+            android:title="Enable password on private details" />
+        <EditTextPreference
+            android:dependency="timerPasswordCheck"
+            android:defaultValue="SPAAG"
+            android:key="timerPassword"
+            android:title="Private Details Password" >
+        </EditTextPreference>
+    </PreferenceCategory>
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="TMagentNames"
+        android:summary="In a search of related properties on Trademe, display the agent&apos;s name."
+        android:title="TradeMe agent names" />
+
+    <PreferenceCategory android:title="Map" >
+
+        <!-- android:id="@+id/pref_vtm" -->
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="DisplayTradeMe"
+            android:summary="Show TradeMe listings on a listings map by default."
+            android:title="Display TradeMe listings" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:dependency="DisplayTradeMe"
+            android:key="showAgencyLogos"
+            android:summary="TradeMe listings can display "
+            android:title="Show agency logos" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:dependency="DisplayTradeMe"
+            android:key="MVagentNames"
+            android:summary="In a listing&apos;s map of related TradeMe listings show the agent&apos;s name"
+            android:title="Show TradeMe agent names" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Documents" >
+
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="fakeListingEnabled"
+            android:summary="Use a fake listing in Salepartner to store office documents to be displayed in the Office tab of the Documents activity"
+            android:title="Enable fake listing" />
+
+        <EditTextPreference
+            android:dependency="fakeListingEnabled"
+            android:key="fakelistingRef"
+            android:summary="Store office documents in the media folder of this listing"
+            android:title="Fake listing Ref" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="expandNotes"
+            android:summary="Notes will be expanded by default to show content."
+            android:title="Show note content" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Notes" >
+
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:key="useNoteTitleAsSubject"
+                android:summary="When sending a note the note's title will become the subject."
+                android:title="Note title as subject" />
+
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:key="sendToVendor"
+                android:summary="When sending notes add vendor as default recepient when possible."
+                android:title="Use Vendor as default recepient" />
+
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:key="sendToSelf"
+                android:summary="When sending notes send a copy to the email address stored below."
+                android:title="Send a copy of note to self" />
+
+            <EditTextPreference
+                android:dependency="sendToSelf"
+                android:key="selfEmail"
+                android:summary="Email address to send a copy of notes to"
+                android:title="CC Email Address" />
+        </PreferenceCategory>
+
+    <PreferenceCategory android:title="TradeMe" >
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="filterTradeMe"
+            android:summary=""
+            android:title="Filter by RV" />
+
+        <EditTextPreference
+            android:defaultValue="10"
+            android:dependency="filterTradeMe"
+            android:key="initialRange"
+            android:numeric="integer"
+            android:summary="Must be between 0 and 100%. "
+            android:title="Default RV range" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Calculator" >
+
+        <EditTextPreference
+            android:defaultValue="500"
+            android:dialogIcon="@drawable/ic_dollar"
+            android:key="FlatFee"
+            android:numeric="decimal"
+            android:summary="A dollar value for the flat fee"
+            android:title="Flat Fee" >
+        </EditTextPreference>
+
+        <EditTextPreference
+            android:defaultValue="4"
+            android:dialogIcon="@drawable/ic_percent"
+            android:key="CommissionBase"
+            android:numeric="decimal"
+            android:summary="A percentage"
+            android:title="Base Commission Rate" >
+        </EditTextPreference>
+
+        <EditTextPreference
+            android:defaultValue="200000"
+            android:dialogIcon="@drawable/ic_dollar"
+            android:key="UpToPrice"
+            android:numeric="integer"
+            android:summary="The sale price to which the base commission applies"
+            android:title="Up To">
+        </EditTextPreference>
+
+        <EditTextPreference
+            android:defaultValue="2"
+            android:dialogIcon="@drawable/ic_percent"
+            android:key="CommissionThereAfter"
+            android:numeric="decimal"
+            android:summary="The commission rate beyond the up to price"
+            android:title="Commission There After" >
+        </EditTextPreference>
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="includeGST"
+            android:summary="Include GST in commission calculations"
+            android:title="Include GST" />
+
+        <EditTextPreference
+            android:defaultValue="15"
+            android:dependency="includeGST"
+            android:dialogIcon="@drawable/ic_percent"
+            android:key="GST"
+            android:numeric="integer"
+            android:summary="Percent value for GST"
+            android:title="GST" >
+        </EditTextPreference>
+    </PreferenceCategory>
+    	<Preference 
+	    android:key="authenication_firsttime"
+	    android:defaultValue="true"
+	    />
+    	<PreferenceCategory android:title="Registration" >
+	    
+        <EditTextPreference
+            android:defaultValue=""
+            android:dialogIcon="@drawable/ic_lock"
+            android:key="customerNumber"
+            android:title="Customer Number"
+            android:persistent="true"
+            android:summary="Contact support for more information." >
+        </EditTextPreference>
+        <EditTextPreference
+            android:defaultValue=""
+            android:dialogIcon="@drawable/ic_lock"
+            android:key="deviceName"
+            android:title="Device name"
+            android:persistent="true"
+            android:summary="Optionally name your device to identify on" >
+        </EditTextPreference>
+        <Preference 
+	    android:key="getStatus"
+	    android:title="Check status"
+	    />
+        <Preference 
+	    android:key="DeviceID"
+	    android:title="Device ID"
+	    />
+        <Preference 
+	    android:key="forceAuthentication"
+	    android:title="Force authenticate"
+	    />
+	</PreferenceCategory>
+
+</PreferenceScreen>

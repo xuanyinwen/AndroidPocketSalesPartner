@@ -1,0 +1,43 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/wrap_xy"
+    android:background="@drawable/popup_bg" >
+
+    <LinearLayout
+        style="@style/wrap_xy"
+        android:background="@drawable/popup_bg"
+        android:padding="10dp" >
+
+        <LinearLayout style="@style/row_popup_border" >
+				
+                <TableLayout android:padding="20dp"
+                    style="@style/wrap_xy" android:background="#fff">
+                   <TableRow android:focusable="true" android:focusableInTouchMode="true">
+                   		<TextView style="@style/text" android:text="Flat rate"/>
+                   		<EditText style="@style/wrap_xy" android:id="@+id/cs_fr" android:layout_width="100dp" android:inputType="numberDecimal"/>
+				   </TableRow>
+                   <TableRow>
+                   		<TextView style="@style/text" android:text="Base\ncomission"/>
+                   		<EditText style="@style/wrap_xy" android:id="@+id/cs_bc" android:inputType="numberDecimal"/>
+				   </TableRow>
+                   <TableRow>
+                   		<TextView style="@style/text" android:text="Up to"/>
+                   		<EditText style="@style/wrap_xy" android:id="@+id/cs_ut" android:inputType="numberDecimal"/>
+				   </TableRow>
+                   <TableRow>
+                   		<TextView style="@style/text" android:text="Commission\nafter"/>
+                   		<EditText style="@style/wrap_xy" android:id="@+id/cs_ct" android:inputType="numberDecimal"/>
+				   </TableRow>
+        		<LinearLayout style="@style/wrap_y" android:gravity="center">
+        		    <Button android:text="Update" android:id="@+id/cs_update_button" style="@style/button"/>
+        		</LinearLayout>
+                </TableLayout>
+    
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/cs_close_button"
+        style="@style/close_icon"
+        android:layout_gravity="right|top" />
+
+</FrameLayout>

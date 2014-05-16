@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true"><layer-list>
+        <!-- @drawable/button_bg_pressed -->
+            <item android:drawable="@android:drawable/btn_default"/>
+            <item><bitmap android:src="@drawable/map_pin_white" />
+            </item>
+        </layer-list></item>
+    <item><layer-list>
+            <item android:drawable="@android:drawable/btn_default"/>
+            <item><bitmap android:src="@drawable/map_pin_white" />
+            </item>
+        </layer-list></item>
+</selector> 

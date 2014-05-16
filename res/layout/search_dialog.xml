@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/wrap_xy" android:layout_width="220dp" 
+    android:gravity="center" android:orientation="vertical">
+    <LinearLayout style="@style/wrap_y" android:padding="10dp">
+    <EditText style="@style/wrap_y" android:id="@+id/sd_edittext" />
+    </LinearLayout>
+    <LinearLayout style="@style/wrap_y" android:background="#fff" android:gravity="center">
+        <Button style="@style/button" android:text="Search" android:id="@+id/sd_search_button"/>
+        <Button style="@style/button" android:text="Cancel" android:id="@+id/sd_cancel_button"/>
+    </LinearLayout>
+</LinearLayout>

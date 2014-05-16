@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/body"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!-- DOCUMENT LIST BUTTONS -->
+
+    <LinearLayout style="@style/wrap_y" >
+
+        <LinearLayout
+            android:id="@+id/vd_new_note"
+            style="@style/listing.send_wrapper.first"
+            android:layout_width="wrap_content" android:paddingLeft="10dp"
+            android:paddingRight="10dp" >
+
+            <ImageView style="@style/plus_icon" />
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/wrap_y"
+            android:weightSum="2" >
+
+            <LinearLayout
+                android:id="@+id/vd_fetch_button"
+                style="@style/listing.send_wrapper"
+                android:layout_width="fill_parent"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/vd_bold1"
+                    style="@style/listing.send_text"
+                    android:text="Refresh" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/vd_download_all_button"
+                style="@style/listing.send_wrapper"
+                android:layout_width="fill_parent"
+                 android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/vd_bold2"
+                    style="@style/listing.send_text"
+                    android:text="Download" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/vd_delete_all_button"
+                style="@style/listing.send_wrapper"
+                android:layout_width="fill_parent"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/vd_bold3"
+                    style="@style/listing.send_text"
+                    android:text="Delete All" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <!-- BODY -->
+
+    <TextView
+        android:id="@+id/vd_msg"
+        style="@style/text.error"
+        android:text="No documents for this listing"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/vd_listview"
+        style="@style/listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </ListView>
+
+</LinearLayout>

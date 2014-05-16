@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/Home"
+        
+        android:title="Home">
+    </item>
+    <!-- android:icon="@drawable/ic_home_icon" -->
+    <item
+        android:id="@+id/HelpDesk"
+        
+        android:title="Info">
+    </item>
+    <!-- android:icon="@drawable/ic_info_small" -->
+    <item
+        android:id="@+id/Options"
+        
+        android:title="Options">
+    </item>
+<!-- android:icon="@drawable/ic_settings" -->
+
+    
+
+
+</menu>

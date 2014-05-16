@@ -1,0 +1,8 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/fill_xy"
+    android:orientation="horizontal" android:gravity="center">
+<ImageView style="@style/spinner_icon" />
+<TextView style="@style/listing.send_text" android:text="Order"/>
+    
+
+</LinearLayout>

@@ -1,0 +1,146 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/wrap_xy"
+    android:background="@drawable/popup_bg" >
+
+    <LinearLayout
+        style="@style/wrap_xy"
+        
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <LinearLayout
+            style="@style/wrap_xy"
+            android:background="#fff"
+            android:padding="10dp"
+            android:orientation="vertical"
+            android:width="240dp" >
+
+            <LinearLayout style="@style/wrap_xy" >
+
+                <LinearLayout style="@style/row.thumbnail_wrapper" >
+
+                    <ImageView
+                        android:id="@+id/popup_img"
+                        style="@style/row.thumbnail" />
+                </LinearLayout>
+
+                <LinearLayout
+                    style="@style/wrap_y"
+                    android:orientation="vertical"
+                    android:padding="10dp" >
+
+                    <TextView
+                        android:id="@+id/popup_title"
+                        style="@style/text" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <TableLayout
+                style="@style/wrap_xy"
+                android:layout_width="240dp" >
+
+                <TableRow >
+
+                    <TextView
+                        android:id="@+id/pu_bold1"
+                        style="@style/text.bold"
+                        
+                        android:text="Price" />
+
+                    <TextView
+                        android:id="@+id/popup_price"
+                        style="@style/text"
+                         />
+                </TableRow>
+
+                <TableRow >
+
+                    <TextView
+                        android:id="@+id/pu_bold2"
+                        style="@style/text.bold"
+                        android:text="RV" />
+
+                    <TextView
+                        android:id="@+id/popup_rv"
+                        style="@style/text" />
+                </TableRow>
+
+                <TableRow >
+
+                    <TextView
+                        android:id="@+id/pu_bold2"
+                        style="@style/text.bold"
+                        android:text="Area" />
+
+                    <TextView
+                        android:id="@+id/popup_area"
+                        style="@style/text" />
+                </TableRow>
+
+                <TableRow >
+
+                    <TextView
+                        android:id="@+id/pu_bold3"
+                        style="@style/text.bold"
+                        android:text="Bedrooms" />
+
+                    <TextView
+                        android:id="@+id/popup_bedrooms"
+                        style="@style/text" />
+                </TableRow>
+
+                <TableRow >
+
+                    <TextView
+                        android:id="@+id/pu_bold4"
+                        style="@style/text.bold"
+                        android:paddingRight="5dp"
+                        android:text="Bathrooms" />
+
+                    <TextView
+                        android:id="@+id/popup_bathrooms"
+                        style="@style/text" />
+                </TableRow>
+                <TableRow android:id="@+id/popup_agent_wrapper">
+
+                    <TextView
+                        android:id="@+id/pu_bold4"
+                        style="@style/text.bold"
+                        android:paddingRight="5dp"
+                        android:text="Agent" />
+
+                    <TextView
+                        android:id="@+id/popup_agentName"
+                        style="@style/text" />
+                </TableRow>
+
+                <TableRow android:id="@+id/logo_holder" >
+
+                    <TextView
+                        android:id="@+id/pu_bold5"
+                        style="@style/text.bold"
+                        android:paddingRight="5dp"
+                        android:text="Agency" />
+
+                    <ImageView
+                        android:id="@+id/popup_logo"
+                        style="@style/agency_logo" />
+                </TableRow>
+            </TableLayout>
+
+            <LinearLayout
+                style="@style/wrap_y"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/popup_visit"
+                    style="@style/button"
+                    android:text="View" />
+
+            </LinearLayout>
+
+            
+        </LinearLayout>
+    </LinearLayout>
+ <ImageView style="@style/close_icon" android:layout_gravity="right|top" android:id="@+id/pu_close_icon"/>
+</FrameLayout>

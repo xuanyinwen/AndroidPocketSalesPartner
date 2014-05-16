@@ -1,0 +1,130 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/wrap_xy" android:background="@drawable/popup_bg">
+    
+   <LinearLayout style="@style/wrap_xy" android:padding="10dp"
+       android:background="@drawable/popup_bg">
+       <LinearLayout style="@style/row_popup_border">
+    <LinearLayout
+        style="@style/row.wrapper" android:background="#fff"
+    android:orientation="horizontal" 
+   android:id="@+id/lrpu_wrapper" android:layout_marginTop="00dp"
+    android:layout_gravity="bottom">
+
+    <LinearLayout style="@style/row.thumbnail_wrapper" >
+
+        <ImageView
+            android:id="@+id/lrpu_row_thumbnail"
+            style="@style/row.thumbnail" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/row.right_col"
+        android:orientation="vertical" android:layout_weight="1" >
+
+        <LinearLayout style="@style/wrap_y">
+                <TextView   
+                    android:id="@+id/lrpu_text1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="3dip"
+                    android:paddingTop="3dip"
+                    android:paddingBottom="3dip"
+                    android:paddingRight="10dp"
+                    android:text="Ref"
+                    android:textAppearance="@style/row.text" />
+
+                <TextView
+                    android:id="@+id/lrpu_street"
+                    style="@style/row.text"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:padding="3dip"
+                    android:text="" />
+        </LinearLayout>
+		<LinearLayout style="@style/wrap_y" android:gravity="right">
+		    <TextView style="@style/row.text" android:id="@+id/lrpu_listedby"/>
+		</LinearLayout>
+			<LinearLayout style="@style/wrap_y" android:gravity="right">	
+            <TextView
+                android:id="@+id/lrpu_listing_row_DisplayPrice"
+                style="@style/row.text"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:gravity="right"
+                android:text="[Display Price]" />
+            </LinearLayout>
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/lrpu_camera_icon"
+                style="@style/listing_icon"
+                android:src="@drawable/camera_icon" />
+
+            <TextView
+                android:id="@+id/lrpu_listingrow_camera"
+                style="@style/row.text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="3dip"
+                android:text="XX" />
+
+            <ImageView
+                android:id="@+id/lrpu_bedrooms_icon"
+                style="@style/listing_icon"
+                android:src="@drawable/ic_bed" />
+
+            <TextView
+                android:id="@+id/lrpu_bedrooms"
+                style="@style/row.text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="3dip"
+                android:text="XX" />
+
+            <ImageView
+                android:id="@+id/lrpu_bathrooms_icon"
+                style="@style/listing_icon"
+                android:src="@drawable/ic_bath" />
+
+            <TextView
+                android:id="@+id/lrpu_bathrooms"
+                style="@style/row.text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="3dip"
+                android:text="XX" />
+
+            <ImageView
+                android:id="@+id/lrpu_garaging_icon"
+                style="@style/listing_icon"
+                android:src="@drawable/ic_car" />
+
+            <TextView
+                android:id="@+id/lrpu_garaging"
+                style="@style/row.text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="XX" />
+
+        </LinearLayout>
+
+        
+    
+</LinearLayout>
+        <LinearLayout style="@style/wrap_xy" android:layout_gravity="center_vertical|right" >
+            <ImageView style="@style/arrow" />
+        </LinearLayout>
+        </LinearLayout>
+</LinearLayout>
+</LinearLayout>
+ <ImageView style="@style/close_icon" android:layout_gravity="right|top" android:id="@+id/lr_close_icon"/>
+</FrameLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/body.landing" >
+
+    <!-- header -->
+
+    <include layout="@layout/header_include" />
+    <!-- SHARE -->
+
+    <FrameLayout style="@style/fill_xy">
+
+        <LinearLayout
+            style="@style/body.landing"
+            android:orientation="vertical"  android:gravity="center">
+
+            <LinearLayout
+                style="@style/wrap_xy"
+                android:orientation="vertical"
+                android:layout_gravity="center_horizontal" >
+
+                <LinearLayout
+                    style="@style/calc_wrapper"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="12dp"
+                    android:layout_marginTop="12dp"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/sale_price"
+                        style="@style/text.calc_header"
+                        android:gravity="center"
+                        android:text="Sale Price" >
+                    </TextView>
+
+                    <LinearLayout style="@style/wrap_xy" >
+
+                        <nz.co.salespartner.Wheel.WheelView
+                            android:id="@+id/comcalc_0"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp" />
+
+                        <nz.co.salespartner.Wheel.WheelView
+                            android:id="@+id/comcalc_1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        <nz.co.salespartner.Wheel.WheelView
+                            android:id="@+id/comcalc_2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        <nz.co.salespartner.Wheel.WheelView
+                            android:id="@+id/comcalc_3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        <nz.co.salespartner.Wheel.WheelView
+                            android:id="@+id/comcalc_4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearlayoutCommission"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingLeft="10dp" >
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        style="@style/text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="12dp"
+                        android:text="Commission"
+                        android:textSize="20dp" >
+                    </TextView>
+
+                    <TextView
+                        android:id="@+id/textViewCommission"
+                        style="@style/text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0.00"
+                        android:textSize="20dp" >
+                    </TextView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/wrap_y"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/comcalc_settingsbutton"
+                    style="@style/button"
+                    android:layout_width="120dp"
+                    android:text="Settings" />
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      style="@style/body" android:padding="0dp">
+    <!-- header -->
+<include layout="@layout/header_include"/>
+    <!-- body -->
+<ScrollView style="@style/scrollview"
+    android:background="@android:color/transparent"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<LinearLayout style="@style/wrap_y" android:orientation="vertical" >
+<!-- ABOUT -->
+	    <LinearLayout style="@style/banner.wrap">
+	        <TextView android:focusableInTouchMode="true" android:focusable="true" style="@style/banner_text" android:text="About" android:id="@+id/hp_b1"/>
+	    </LinearLayout>	
+	    <LinearLayout style="@style/wrap_y">
+	        <ImageView style="@style/logo"/>
+	        <LinearLayout style="@style/wrap_y" android:paddingLeft="10dp" android:orientation="vertical">
+	            <TextView style="@style/text" android:text="@string/about_blurb"  android:id="@+id/hd_blurb" android:paddingBottom="10dp"/>
+	            <TextView style="@style/text" android:id="@+id/version_number" android:paddingBottom="10dp"/>    
+	            <TextView style="@style/text" android:id="@+id/update_link" android:textColor="#0000ee"
+	                
+	                 android:text="Check for updates" android:paddingBottom="10dp"/>    
+	             
+	        </LinearLayout>
+	    </LinearLayout>
+	    <TextView android:text="@string/more_about" style="@style/text" android:padding="10dp"/>
+<!-- CONTACT -->
+	    <LinearLayout style="@style/banner.wrap">
+	        <TextView style="@style/banner_text" android:text="Support" android:id="@+id/hp_b2"/>
+	    </LinearLayout>
+	    <TableLayout style="@style/wrap_y">
+	        <TableRow style="@style/listing.tablerow"> <!-- Row -->
+	            <TextView style="@style/text.bold" android:text="Phone" android:id="@+id/hp_b4" android:paddingRight="30dp"/> <!-- PADDING -->
+	            <TextView style="@style/text" android:text="+64 4 4711 849" android:id="@+id/hp_ph1" android:paddingRight="30dp"/>
+	            <Button style="@style/button.phone" android:id="@+id/hd_pb1"/>
+	        </TableRow>
+	        <TableRow style="@style/listing.tablerow" android:visibility="gone"> <!-- Row -->
+	            <TextView style="@style/text.bold" android:text="Phone" android:id="@+id/hp_b5"/>
+	            <TextView style="@style/text" android:text="[Phone Number]"  android:id="@+id/hp_ph2"/>
+	            <Button style="@style/button.phone"/>
+	        </TableRow>
+	    </TableLayout>	    
+<!-- FEEDBACK -->
+	    
+	    <TableLayout style="@style/wrap_y">
+	        <TableRow style="@style/listing.tablerow" > <!-- Row -->
+	            <TextView style="@style/text.bold" android:text="Name" android:id="@+id/hp_b6" android:paddingRight="30dp"/> <!-- PADDING -->
+	            <EditText style="@style/wrap_y"  android:paddingRight="30dp" android:layout_width="200dp" android:id="@+id/hp_name"/>
+	        </TableRow>
+	        <TableRow style="@style/listing.tablerow"> <!-- Row -->
+	            <TextView style="@style/text.bold" android:text="Message" android:id="@+id/hp_b7"/>
+	      		<EditText style="@style/wrap_y"  android:layout_width="200dp" android:lines="5" android:gravity="top" android:id="@+id/hp_msg"/>
+	      		
+	        </TableRow>
+	        <TableRow style="@style/listing.tablerow"> <!-- Row -->
+	            <TextView style="@style/text.bold" android:text="Attach Log" android:id="@+id/hp_b7"/>
+	      		<CheckBox style="@style/wrap_xy"  
+	      		    android:layout_width="200dp" 
+	      		    android:id="@+id/hp_sendlog"/>
+	      		
+	        </TableRow>
+	        <TableRow >
+	            <LinearLayout style="@style/wrap_xy"></LinearLayout>
+	            <Button  style="@style/button" android:text="Send" android:id="@+id/hp_send" android:layout_marginLeft="10dp"/>
+	        </TableRow>
+	    </TableLayout>	    
+	</LinearLayout>
+</ScrollView>
+</LinearLayout>

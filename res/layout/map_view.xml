@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical">
+<LinearLayout style="@style/map_details">
+    <ScrollView style="@style/fill_xy" android:layout_weight="1" android:background="@color/print_bg">
+    <TextView style="@style/text" android:text="Location" android:id="@+id/location_print" android:padding="4dp"
+        android:layout_width="fill_parent" android:layout_height="wrap_content" android:textColor="@color/print_text" />
+    </ScrollView>
+    <LinearLayout style="@style/listing.send_wrapper.map" android:id="@+id/map_mode_button" android:layout_height="fill_parent" >
+		    <TextView style="@style/listing.send_text"  android:text="Mode" android:id="@+id/map_mode_text" android:layout_height="fill_parent" android:layout_weight="1"/>
+    </LinearLayout>
+     <LinearLayout style="@style/listing.send_wrapper.map" android:id="@+id/map_location_button" 
+         android:layout_height="fill_parent" android:gravity="center">
+		    <ImageView style="@style/location_icon"  android:src="@drawable/ic_location"/>
+    </LinearLayout>
+</LinearLayout>
+<LinearLayout style="@style/divider.darkthin"></LinearLayout>
+                  <com.google.android.maps.MapView
+                 android:id="@+id/mapview"
+                 android:clickable="true"
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent"
+                 android:apiKey="0zNXiE3WCTahIhe0NQSnp99-s72FGuYOdplHbjQ"
+                 />
+
+</LinearLayout>

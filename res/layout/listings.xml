@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      style="@style/body" android:background="#fff">
+    <!-- header -->
+    <include layout="@layout/header_include"/>
+ 
+    <!-- RADIO TABS -->
+   <RelativeLayout style="@style/wrap_xy" android:layout_height="@dimen/tab_height" >
+		<RadioGroup android:orientation="horizontal" style="@style/wrap_y" android:layout_height="@dimen/tab_height" android:weightSum="2" android:id="@+id/listings_radio_group">
+				<RadioButton style="@style/tabradio.radio" android:id="@+id/display_all_button" android:text="All" android:layout_height="fill_parent"/>
+				<RadioButton style="@style/tabradio.radio" android:id="@+id/display_fav_button" android:text="Favourites" android:layout_height="fill_parent"/>
+				
+				<RadioButton style="@style/tabradio.search" android:layout_height="fill_parent" android:id="@+id/display_search_button"/>
+		</RadioGroup>
+		<LinearLayout style="@style/tabradio.searchwrapper" android:layout_height="@dimen/tab_height" >	
+			<LinearLayout style="@style/tabradio.sw_inner">	
+				<ImageView style="@style/search_button"/>
+			</LinearLayout>
+		</LinearLayout>
+	</RelativeLayout>
+
+	 <!-- SHARE -->
+	<LinearLayout style="@style/wrap_y">
+		<LinearLayout style="@style/listing.send_wrapper.first" android:layout_width="fill_parent" android:id="@+id/search_reset_button" android:visibility="gone">
+		    <TextView style="@style/listing.send_text" android:text="New search?"/>
+		</LinearLayout>	   
+	</LinearLayout>	
+	 <!-- SHARE -->
+	<LinearLayout style="@style/wrap_y">
+		<LinearLayout style="@style/listing.send_wrapper.first" android:layout_width="fill_parent" android:id="@+id/sub_menu" 
+		    android:visibility="visible">
+		    <LinearLayout style="@style/listing.send_wrapper.first" android:id="@+id/fav_all"
+		        android:layout_width="fill_parent" android:layout_weight="1">
+		         <TextView style="@style/listing.send_text" android:text="Favourite All"/>
+		    </LinearLayout>
+		    <LinearLayout style="@style/listing.send_wrapper.first" android:id="@+id/clear_all_favs"
+		        android:layout_width="fill_parent" android:layout_weight="1" android:visibility="gone">
+		         <TextView style="@style/listing.send_text" android:text="Clear All"/>
+		    </LinearLayout>
+		    <nz.co.salespartner.Objects.CustomSpinner style="@style/listing.send_wrapper.spinner" android:layout_weight="0" 
+				    android:spinnerMode="dropdown"
+				    android:dropDownSelector="@color/light_dark_blue"
+				    android:dropDownVerticalOffset="5dp"
+				     android:id="@+id/order_spinner" android:prompt="@string/order_prompt" 
+				    
+				    />
+		</LinearLayout>	   
+	</LinearLayout>	
+	<!-- body -->   
+	<FrameLayout style="@style/fill_xy" android:background="#444">
+		    <ListView android:id="@+id/android:list"
+					 
+		        	style="@style/listview.main" 
+		        	android:fastScrollEnabled="true"
+		        	android:layout_height="fill_parent"/>
+		  	<TextView android:id="@+id/android:empty"
+		          android:layout_width="wrap_content"
+		        	android:layout_height="wrap_content"
+		        	android:text="No Listings"/>
+		  	<!-- sliding drawer -->
+		  	<FrameLayout  android:layout_gravity="bottom" android:gravity="bottom" android:layout_width="fill_parent"
+		     android:layout_height="240dp">
+		     <LinearLayout
+		          android:layout_gravity="bottom"
+		         android:id="@+id/fake_handle"
+		         style="@style/footer.wrapper" 
+		         android:visibility="gone"/>
+ 		  	 <SlidingDrawer
+		     android:id="@+id/drawer"
+		     android:layout_width="fill_parent"
+		     android:layout_height="fill_parent"
+		
+		     android:handle="@+id/drawer_handle"
+		     android:content="@+id/drawer_content">
+		        <LinearLayout
+		         android:id="@id/drawer_handle"
+		         style="@style/footer.wrapper">
+		         <ImageView style="@style/handle_icon"/>
+		         <TextView style="@style/footer.text" android:id="@+id/foot_text"/>
+		         </LinearLayout>
+		
+		     <ScrollView
+		         android:id="@id/drawer_content"
+		         android:layout_width="fill_parent" 
+		         android:layout_height="fill_parent" android:background="@color/footer_options">
+		         <LinearLayout style="@style/wrap_y" android:orientation="vertical">
+		     <!-- <LinearLayout style="@style/divider"></LinearLayout> -->
+		     	<TableLayout style="@style/wrap_y">
+		     	    <TableRow style="@style/filters.row.light">
+		     	        
+		     	    </TableRow>
+		     	    <LinearLayout style="@style/divider.light"/> 
+	<!-- 	     	    <TableRow android:visibility="visible">
+		     	        <Spinner android:layout_span="4" style="@style/spinner" android:id="@+id/order_spinner" android:prompt="@string/order_prompt" 
+		     	            android:layout_width="2dp"
+		     	            android:layout_height="2dp"
+		     	             android:visibility="visible"/>  
+		     	    </TableRow> -->
+		     	    <TableRow style="@style/filters.row.dark">
+		     	        
+		     	        <TextView style="@style/text.options" android:text="Listed By" android:id="@+id/drawer_bold4"/>
+		     	        <Spinner android:layout_span="4" style="@style/spinner" android:id="@+id/agent_spinner" android:prompt="@string/agent_prompt"/>
+		     	        
+		     	    </TableRow>
+		     	    <LinearLayout style="@style/divider.light"/>  
+		     	    <TableRow style="@style/filters.row.light" android:focusable="true" android:focusableInTouchMode="true">
+		     	        	<TextView style="@style/text.options" android:text="Price (K)" android:id="@+id/drawer_bold1"/>
+		     	            <EditText style="@style/filters.editText" android:text="" android:id="@+id/dr_min_price"/>
+		     	            <TextView style="@style/text.options.result" android:text="-"/>
+		     	            <EditText style="@style/filters.editText" android:text=" " android:id="@+id/dr_max_price"/>
+		     	            <CheckBox style="@style/wrap_xy" android:id="@+id/dr_by_price"/>
+		     	    </TableRow>
+		     	    <LinearLayout style="@style/divider.light"/> 
+		     	    <TableRow style="@style/filters.row.dark">
+							<TextView style="@style/text.options" android:text="Bedrooms" android:id="@+id/drawer_bold2"/>
+		     	            <EditText style="@style/filters.editText" android:text="" android:id="@+id/dr_min_beds"/>
+		     	            <TextView style="@style/text.options.result" android:text="-"/>
+		     	            <EditText style="@style/filters.editText" android:text=" " android:id="@+id/dr_max_beds"/>	
+		     	            <CheckBox style="@style/wrap_xy" android:id="@+id/dr_by_beds"/>     	        
+		     	    </TableRow>
+		     	    <!-- <LinearLayout style="@style/divider.light"/>
+		     	    <TableRow style="@style/filters.row.light">
+		     	      		<TextView style="@style/text.options" android:text="Bathrooms"/>
+		     	            <EditText style="@style/filters.editText" android:text="" android:id="@+id/dr_min_baths"/>
+		     	            <TextView style="@style/text.options.result" android:text="-"/>
+		     	            <EditText style="@style/filters.editText" android:text=" " android:id="@+id/dr_max_baths"/>	        
+		     	    </TableRow> -->
+		     	    <LinearLayout style="@style/divider.light"/> 
+		     	   	<LinearLayout style="@style/filters.row.light" android:gravity="center">
+							<Button style="@style/button" android:text="Filter" android:id="@+id/dr_filterbutton"/>	
+							<!-- <Button style="@style/button" android:text="Filter OLD" android:id="@+id/dr_filterbuttonOLD"/> -->	
+		     	   	</LinearLayout> 
+		     	</TableLayout>
+		         
+		     </LinearLayout>
+		     </ScrollView>
+		     </SlidingDrawer>
+		     </FrameLayout>
+     </FrameLayout>
+</LinearLayout>

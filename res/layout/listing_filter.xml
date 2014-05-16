@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical">
+	<CheckBox
+		android:id="@+id/listing_filter_ByPrice"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Price (thousands)" />
+	
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Min Price" />
+		<EditText
+		  android:id="@+id/listing_filter_PriceMin"		
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="0"
+			android:layout_weight="1" android:inputType="number"/>
+		<Button
+		  android:id="@+id/listing_filter_PriceMinButton"		
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Select" />		
+	</LinearLayout>
+	
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Max Price" />
+		<EditText
+		  android:id="@+id/listing_filter_PriceMax"		
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="0"
+			android:layout_weight="1" android:inputType="number"/>
+		<Button
+		  android:id="@+id/listing_filter_PriceMaxButton"		
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Select" />		
+	</LinearLayout>	
+	
+		<CheckBox
+		android:id="@+id/listing_filter_ByBeds"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Bedrooms" />
+	
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Min Bedrooms" />
+		<EditText
+		  android:id="@+id/listing_filter_BedsMin"		
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="0"
+			android:layout_weight="1" android:inputType="number"/>
+		<Button
+		  android:id="@+id/listing_filter_BedsMinButton"		
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Select" />		
+	</LinearLayout>
+	
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Max Bedrooms" />
+		<EditText
+		  android:id="@+id/listing_filter_BedsMax"		
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="0"
+			android:layout_weight="1" android:inputType="number"/>
+		<Button
+		  android:id="@+id/listing_filter_BedsMaxButton"		
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Select" />		
+	</LinearLayout>	
+	
+	
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="horizontal">
+		<Button
+		  android:id="@+id/listing_filter_ApplyButton"		
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Apply" />		
+		<Button
+		  android:id="@+id/listing_filter_CancelButton"		
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Cancel" />		
+	</LinearLayout>
+	
+
+</LinearLayout>

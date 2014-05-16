@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Listings!</string>
+    <string name="app_name">Pocket-SalesPartner</string>
+    <string name="app_label">Pocket-SalesPartner</string>
+    <string name="search_hint">Search listings</string>
+    <string name="header_text">Pocket SalesPartner</string>
+    <string name="header_text_a">Pocket</string>
+    <string name="header_text_b"> SalesPartner</string>
+    <string name="order_prompt">Order By</string>
+    <string name="agent_prompt">Listed By</string>
+    <string-array name="order_array">
+        <item>Reference</item>
+        <item>Price</item>
+        <item>Street</item>
+        <item>Suburb</item>
+        <item>Listed By</item>
+        <item>Listed Date</item>
+    </string-array>
+    <string name="listed_by">Listed By</string>   
+    <string name="about_blurb">Pocket SalesPartner for Android was designed by ComputersForPeople for use with the 
+        PC version of SalesPartner. Please use the contact form below or on our website to request features, report bugs or get support.
+        \n\nwww.salespartner.co.nz</string>
+    <string name="more_about"><b>Syncing</b>
+        \n<b>1)</b> Firstly, make sure you have installed <u>SynchroServer</u> and that it is running on a computer with a copy of SalesPartner.
+        \n<b>2)</b> Connect to the server\'s network. You can enable this under Settings > Wireless &amp; Networks > Wi-Fi Settings. 
+        \n<b>3)</b> Note the server\'s name and port as shown on the <u>SynchroServer</u> display and enter these 
+        into options page of the app. The options page can be found by pressing the \"Menu\" button on your device. This will display a context menu that can be accessed throughout the app.
+        \n<b>4)</b> If authentication is required set permissions and usernames in the <u>Synchro Server Configurator</u>. For this app, add the permission \"ANDROID\".\n\nYou can limit the listings delivered in the branch field. For
+        example \"JO*\" will only return listings beginning with JO. Enter your username and password into the app before syncing.
+        \n
+        \n<b>5)</b> Now on the device, click the Sync button. Synchronising will match your app\'s data with your server settings, adding new listings and files and deleting any that are no longer on the server for that user\'s branch codes.
+        \n
+        \n<b>Documents</b>
+        \nDocuments are retrieved during a sync. Any documents contained in your listings\' <u>Media Directories</u> will be transferred.
+        \n
+        \nYou can display generic documents in the office section by creating a fake listing in SalesPartner and entering its Reference number
+        into the app at Options > Documents > Fake Listing Ref.
+        \n
+        \n<b>Settings</b>
+        \nThe app has many different settings that allow for personalisation. You can access these in the context menu. Some settings may not take affect until a restart of the current activity or the app itself.
+        \n
+        \n<b>Registration</b>
+        \nPocket SalesPartner requires registration to remain activated. It also ensures that the device can be locked if it becomes compromised. After an installation please contact support to register your device.
+        \n
+        \n<b>1)</b> You will be given a customer number, enter this in Options > Registration > Customer Number.
+        \n<b>2)</b> Give you device a name to help with identification in Device Name.
+        \n<b>3)</b> Click Force Authenticate to register the device.
+        \n
+        \nIf you find that messages are being displayed about grace periods and registration expiry please contact support or attempt to Force Authenticate.
+        \n
+        
+    </string>
+</resources>

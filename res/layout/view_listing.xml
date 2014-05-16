@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      style="@style/body">
+      <!-- SHARE -->
+	<LinearLayout style="@style/wrap_y">
+	    <LinearLayout style="@style/wrap_y" android:weightSum="2" android:layout_weight="1">
+				<LinearLayout style="@style/listing.send_wrapper.first" android:layout_weight="1" android:id="@+id/share_button">
+				    <TextView style="@style/listing.send_text" android:id="@+id/share_bold_1"/>
+				    <!-- <Button style="@style/button.send_email"/> -->
+				</LinearLayout>
+				<LinearLayout style="@style/listing.send_wrapper" android:layout_weight="1" android:id="@+id/trademe_button">
+				    <TextView style="@style/listing.send_text" android:text="Related" android:id="@+id/share_bold_2"/>
+				    <!-- <Button style="@style/button.trademe"/> -->
+				</LinearLayout>
+		</LinearLayout>
+		<LinearLayout style="@style/listing.send_wrapper.star" android:layout_width="wrap_content" >
+		 	   <CheckBox style="@style/button.star" android:id="@+id/vl_star_box"/>
+		</LinearLayout>			
+	</LinearLayout>	
+<ScrollView style="@style/scrollview"
+    android:padding="0dp"
+	android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<TableLayout android:layout_width="fill_parent" android:id="@+id/vl_wrapper"
+		android:layout_height="fill_parent" android:orientation="vertical"
+		android:stretchColumns="0,1,2,3" style="@style/listing.body" android:padding="0px">
+
+
+
+	<LinearLayout style="@style/divider.send"></LinearLayout>
+		<TableRow style="@style/listing.tablerow" android:paddingTop="5dp">
+			<TextView style="@style/text.bold" android:id="@+id/vl_bold1" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="Reference: " />
+			<TextView style="@style/text"   android:id="@+id/view_listing_ref"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="Ref" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow">
+			<TextView style="@style/text.bold" android:id="@+id/vl_bold2"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="Display Price: "
+				android:layout_span="1" />
+			<TextView style="@style/text"   android:id="@+id/view_listing_price"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="[DisplayPrice]" android:layout_span="3" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow">
+		    	<TextView style="@style/text.bold"  android:id="@+id/vl_bold3" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="Features: "
+				android:layout_span="1" />
+				<LinearLayout android:orientation="horizontal"
+					android:layout_width="fill_parent" android:layout_height="wrap_content">
+					<ImageView android:id="@+id/view_listing_bedrooms_icon"
+						style="@style/listing_icon"
+						android:layout_marginRight="6dip" android:src="@drawable/ic_bed" />
+		 
+					<TextView style="@style/text"   android:id="@+id/view_listing_bedrooms"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:text="XX" />
+					<ImageView android:id="@+id/view_listing_bathrooms_icon"
+						style="@style/listing_icon"
+						android:layout_marginRight="6dip" android:src="@drawable/ic_bath" />
+					<TextView style="@style/text"   android:id="@+id/view_listing_bathrooms"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:text="XX" />
+					<ImageView android:id="@+id/view_listing_garaging_icon"
+						style="@style/listing_icon"
+						android:layout_marginRight="6dip" android:src="@drawable/ic_car" />
+					<TextView style="@style/text"   android:id="@+id/view_listing_garaging"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:text="XX" />
+				</LinearLayout> 
+		</TableRow>
+<!-- ADDRESS -->
+		<TableRow style="@style/listing.tablerow">
+		    <TextView style="@style/text.bold" android:id="@+id/vl_bold4"  android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:text="Address: "
+					android:layout_span="1" />
+			<LinearLayout android:orientation="vertical"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:layout_span="3" android:layout_weight="1">
+				<TextView style="@style/text"   android:id="@+id/view_listing_street"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="Street number and street" />
+				<TextView style="@style/text"   android:id="@+id/view_listing_suburb"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="suburb" />
+				<TextView style="@style/text"   android:id="@+id/view_listing_district"
+					android:layout_width="wrap_content" android:layout_height="wrap_content"
+					android:text="district" />
+				
+			</LinearLayout>
+			<LinearLayout style="@style/wrap_xy" android:layout_span="1">
+				<Button style="@style/button.map"  android:id="@+id/view_listing_map_button"></Button>
+			</LinearLayout>
+		</TableRow>
+		<TableRow style="@style/listing.tablerow">
+			<TextView style="@style/text.bold" android:id="@+id/vl_bold5"  android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="Listed by: " />
+			<TextView style="@style/text"   android:id="@+id/view_listing_listedby"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow">
+			<TextView style="@style/text.bold" android:id="@+id/vl_bold6"  android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="RV:" />
+			<TextView style="@style/text"   android:id="@+id/view_listing_RV"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="[Ratable Value]" />
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:text="LV: " />
+			<TextView style="@style/text"   android:id="@+id/view_listing_LV"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="[Land Value]" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow">
+			<TextView style="@style/text.bold" android:id="@+id/vl_bold7"  android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="6dip"
+				android:text="Land:" />
+			<TextView style="@style/text"   android:id="@+id/view_listing_LandArea"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginRight="6dip" android:text="[Land]" />
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="6dip"
+				android:text="Floor: " />
+			<TextView style="@style/text"   android:id="@+id/view_listing_FloorArea"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginRight="6dip" android:text="[Floor]" />
+		</TableRow>
+
+		<TableRow style="@style/listing.tablerow">
+			<TextView style="@style/text.bold" android:id="@+id/vl_bold8"  android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="6dip"
+				android:text="Rates:" />
+			<TextView style="@style/text"   android:id="@+id/view_listing_rates"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginRight="6dip" android:text="" />
+		</TableRow>
+<!--  open home and weblink -->
+		<LinearLayout style="@style/listing.tablerow">
+			<TextView style="@style/text.bold" android:id="@+id/vl_bold8"  android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="6dip"
+				android:text="Weblink:" />
+			<TextView style="@style/text"   android:id="@+id/view_listing_weblink"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginRight="6dip" android:text="" />
+		</LinearLayout>
+		<LinearLayout style="@style/listing.tablerow">
+			<TextView style="@style/text.bold" android:id="@+id/vl_bold8"  android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="6dip"
+				android:text="OpenHome:" />
+			<TextView style="@style/text"   android:id="@+id/view_listing_openhome"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginRight="6dip" android:text="" />
+		</LinearLayout>
+		
+<!-- LEGAL DISCRIPTION -->
+
+		<RelativeLayout style="@style/banner" android:id="@+id/banner1" android:layout_span="4">
+			<TextView style="@style/banner_text" android:id="@+id/vl_bold9"  android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="6dip"
+				 android:text="Legal Description:" />
+			<CheckBox style="@style/plusminus_icon" android:id="@+id/legal_pm"/>
+		</RelativeLayout>	
+		
+		<TableRow style="@style/listing.tablerow" android:id="@+id/legal_1">
+			<TextView style="@style/text"   android:id="@+id/view_listing_legal_description"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginRight="6dip" android:layout_span="4"
+				android:text="[Legal Description]" />
+		</TableRow>
+
+		<TableRow style="@style/listing.tablerow"  android:id="@+id/legal_2">
+			<TextView style="@style/text.bold" android:id="@+id/vl_bold10"  android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="6dip"
+				android:layout_span="1" android:text="Tenancy:" />
+
+			<TextView style="@style/text"   android:id="@+id/view_listing_Tenancy"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="3" android:text="[Tenancy]" />
+		</TableRow>
+
+		<TableRow style="@style/listing.tablerow" android:id="@+id/legal_3">
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="6dip"
+				android:text="Listed:" android:id="@+id/vl_bold11"/>
+			<TextView style="@style/text"   android:id="@+id/view_listing_ListedDate"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginRight="6dip" android:text="[Listed]" />
+
+		</TableRow>
+
+		<TableRow style="@style/listing.tablerow" android:id="@+id/legal_4">
+	
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="6dip"
+				android:text="Expiry: " android:id="@+id/vl_bold12"/>
+			<TextView style="@style/text"   android:id="@+id/view_listing_ExpiryDate"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginRight="6dip" android:text="[Expiry]" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow" android:id="@+id/legal_5">
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_marginRight="6dip"
+				android:text="Status:" android:id="@+id/vl_bold13"/>
+			<TextView style="@style/text"   android:id="@+id/view_listing_status"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_marginRight="6dip" android:text="[Status]" />
+		</TableRow>
+<!-- ADVERT -->
+		<TableRow style="@style/banner">
+			<TextView style="@style/banner_text"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="4"
+				android:text="Advert:" android:id="@+id/vl_bold14"/>
+		</TableRow>
+		<LinearLayout style="@style/listing.tablerow">
+			<TextView style="@style/text"   android:id="@+id/view_listing_AdvertHeading"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="[AdvertHeading]" />
+		</LinearLayout>
+		<LinearLayout style="@style/listing.tablerow">
+			<TextView style="@style/text"   android:id="@+id/view_listing_AdvertBody"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:text="[AdvertBody]" />
+		</LinearLayout>
+<!-- SELLING POINTS -->
+		<TableRow style="@style/banner">
+			<TextView style="@style/banner_text"   android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:layout_span="4"
+				android:text="Selling Points:" android:id="@+id/vl_bold15"/>
+		</TableRow>
+		<TableRow style="@style/listing.tablerow">
+			<TextView style="@style/text"   android:id="@+id/view_listing_SellingPoints"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="4" android:text="[SellingPoints]" />
+		</TableRow>
+		<TableRow style="@style/banner">
+			<TextView style="@style/banner_text"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="4"
+				android:text="Features" android:id="@+id/vl_bold15"/>
+		</TableRow>
+		<TableRow style="@style/listing.tablerow">
+			<TextView style="@style/text"   android:id="@+id/view_listing_Features"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="4" android:text="" />
+		</TableRow>
+<!-- PRIVATE FEATURES -->
+		<RelativeLayout style="@style/banner" android:id="@+id/banner2">
+			<TextView style="@style/banner_text"   
+			    android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="Private Features:" android:id="@+id/vl_bold16"/>
+			<CheckBox style="@style/plusminus_icon" android:id="@+id/private_pm"/>
+		</RelativeLayout>
+		
+		<TableRow style="@style/listing.tablerow" android:id="@+id/private_1">
+			<TextView style="@style/text"   android:id="@+id/view_listing_PrivateFeatures"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="4" android:text="[PrivateFeatures]" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow" android:id="@+id/private_2">
+			<TextView style="@style/text"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Key:" android:id="@+id/vl_bold17"/>
+			<TextView style="@style/text"   android:id="@+id/view_listing_KeyDetails"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="3" android:text="[KeyDetails]" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow" android:id="@+id/private_3">
+			<TextView style="@style/text"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Search Price:" android:id="@+id/vl_bold18" android:paddingRight="4dp"/>
+			<TextView style="@style/text"   android:id="@+id/view_listing_SearchPrice"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="3" android:text="[SearchPrice]" />
+		</TableRow>
+<!-- VENDOR DETAILS -->	
+		<RelativeLayout style="@style/banner" android:id="@+id/banner3">
+			<TextView style="@style/banner_text"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="Vendor Details:" android:id="@+id/vl_bold19" />
+			<CheckBox style="@style/plusminus_icon" android:id="@+id/vendor_pm"/>
+		</RelativeLayout>	
+		
+		<TableRow style="@style/listing.tablerow" android:id="@+id/vendor_1">
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Greeting:" android:id="@+id/vl_bold20"/>
+			<TextView style="@style/text"   android:id="@+id/view_listing_VendorGreeting"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="3" android:text="[VendorGreeting]" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow" android:id="@+id/vendor_2">
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Surname:" android:id="@+id/vl_bold21"/>
+			<TextView style="@style/text"   android:id="@+id/view_listing_VendorSurname"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="3" android:text="[VendorSurname]" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow" android:id="@+id/vendor_3">
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Title:" android:id="@+id/vl_bold22"/>
+			<TextView style="@style/text"   android:id="@+id/view_listing_VendorTitle"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="3" android:text="[VendorTitle]" />
+		</TableRow>
+		<!-- PHONE DETAILS -->
+		<TableRow style="@style/listing.tablerow" android:id="@+id/vendor_4">
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Ph1:" android:id="@+id/vl_bold23"/>
+			<LinearLayout android:layout_span="2">
+			<TextView style="@style/text.ph_type"   android:id="@+id/view_listing_Ph1Type"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="1" android:text="[Ph1Type]" />
+			<TextView style="@style/text"   android:id="@+id/view_listing_Ph1"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="1" android:text="[Phone1]" />
+			</LinearLayout>
+			<LinearLayout style="@style/wrap_xy" android:layout_span="1">
+			<Button style="@style/button.phone"   android:id="@+id/view_listing_Ph1_call_button"
+				
+				 android:text="" />
+			</LinearLayout>
+		</TableRow>
+		<TableRow style="@style/listing.tablerow" android:id="@+id/vendor_5">
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Ph2:" android:id="@+id/vl_bold24"/>
+			<LinearLayout android:layout_span="2">
+			<TextView style="@style/text.ph_type"   android:id="@+id/view_listing_Ph2Type"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="1" android:text="[Ph2Type]" />
+			<TextView style="@style/text"   android:id="@+id/view_listing_Ph2"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="2" android:text="[Phone2]" />
+			</LinearLayout>
+			<LinearLayout style="@style/wrap_xy" android:layout_span="1">
+			<Button style="@style/button.phone"   android:id="@+id/view_listing_Ph2_call_button" android:layout_span="1" android:text=""/>
+			</LinearLayout>
+		</TableRow>
+		<TableRow style="@style/listing.tablerow" android:id="@+id/vendor_6">
+		    
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Ph3:" android:id="@+id/vl_bold25"/>
+			<LinearLayout android:layout_span="2">
+			<TextView style="@style/text.ph_type"   android:id="@+id/view_listing_Ph3Type"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="1" android:text="[Ph3Type]" />
+			<TextView style="@style/text"   android:id="@+id/view_listing_Ph3"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="2" android:text="[Phone3]" />
+			</LinearLayout>
+			<LinearLayout style="@style/wrap_xy" android:layout_span="1">
+			<Button style="@style/button.phone"   android:id="@+id/view_listing_Ph3_call_button" android:layout_span="1" android:text=""/>
+			</LinearLayout>
+		</TableRow>
+		<TableRow style="@style/listing.tablerow" android:id="@+id/vendor_7">
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Fax:" android:id="@+id/vl_bold26"/>
+			<TextView style="@style/text"   android:id="@+id/view_listing_Fax"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="2" android:text="[Fax]" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow" android:id="@+id/vendor_8">
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Email:" android:id="@+id/vl_bold27"/>
+			<TextView style="@style/text.email"   android:id="@+id/view_listing_VendorEmail"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="3" android:text="[Email]" />
+		</TableRow>
+		<TableRow style="@style/listing.tablerow" android:id="@+id/vendor_9">
+			<TextView style="@style/text.bold"   android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_span="1"
+				android:text="Address:" android:id="@+id/vl_bold28"/>
+			<TextView style="@style/text"   android:id="@+id/view_listing_VendorAddress"
+				android:layout_width="wrap_content" android:layout_height="wrap_content"
+				android:layout_span="3" android:text="[VendorAddress]" />
+		</TableRow>    
+		
+	</TableLayout>
+</ScrollView>
+</LinearLayout>

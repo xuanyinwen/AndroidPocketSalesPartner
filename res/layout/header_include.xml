@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     style="@style/header.wrapper" android:layout_width="fill_parent"
+    >
+        <LinearLayout style="@style/fill_xy" android:gravity="center" android:visibility="gone">
+	        <TextView style="@style/header.text" android:id="@+id/hi_title_1"/>
+	        <TextView style="@style/header.text.red" android:id="@+id/hi_title_2"/>
+        </LinearLayout>
+        <LinearLayout style="@style/fill_xy" android:gravity="center" 
+            android:paddingRight="30dp" 
+            android:paddingTop="5dp" 
+            android:paddingBottom="5dp" 
+            android:paddingLeft="30dp">
+	       <ImageView style="@style/header_logo"/>
+        </LinearLayout>
+
+        <Button style="@style/home_button" android:id="@+id/go_home_button"/>
+</FrameLayout>  
+ 

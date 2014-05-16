@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/body"
+	android:orientation="vertical">
+	    <!-- header -->
+    <include layout="@layout/header_include" />
+    <TabHost
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/tabhost2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout001"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/tab_height"   
+                android:gravity="center">
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+                <LinearLayout style="@style/fill_xy" android:id="@+id/office_docs_view" android:orientation="vertical">
+                    <!-- OFFICE DOCUMENT LIST -->
+                    
+						<LinearLayout style="@style/wrap_y" android:weightSum="2">
+							<LinearLayout style="@style/listing.send_wrapper.first" 
+							    android:layout_width="fill_parent" 
+							    android:layout_weight="1" 
+							    android:id="@+id/od_fetch_button">
+							    <TextView style="@style/listing.send_text" android:text="Refresh" android:id="@+id/ad_bold1"/>
+							</LinearLayout>
+							
+							<LinearLayout style="@style/listing.send_wrapper" 
+							    android:layout_width="fill_parent"
+							    android:layout_weight="1" 
+							    android:id="@+id/od_delete_all_button">
+							    <TextView style="@style/listing.send_text" android:text="Delete All" android:id="@+id/ad_bold3"/>
+							</LinearLayout>
+						</LinearLayout>	
+						<!-- BODY -->
+						<TextView style="@style/text" android:id="@+id/fakenotenabledMsg" android:text="Office listing not enabled"/>
+						<ListView style="@style/listview" android:id="@+id/office_docs_listview" android:layout_width="fill_parent"  android:layout_height="fill_parent">
+						    
+						</ListView>
+                </LinearLayout>
+                <LinearLayout style="@style/fill_xy" android:id="@+id/listing_docs_view" android:orientation="vertical">
+                    <!-- ALL DOCUMENT LIST  -->
+						<LinearLayout style="@style/wrap_y" android:weightSum="2">
+							<LinearLayout style="@style/listing.send_wrapper.first" 
+							    android:layout_width="fill_parent" 
+							    android:layout_weight="1" 
+							    android:id="@+id/ad_fetch_button">
+							    <TextView style="@style/listing.send_text" android:text="Refresh" android:id="@+id/ad_bold1"/>
+							</LinearLayout>
+
+							<LinearLayout style="@style/listing.send_wrapper" 
+							    android:layout_width="fill_parent"
+							    android:layout_weight="1" 
+							    android:id="@+id/ad_delete_all_button">
+							    <TextView style="@style/listing.send_text" android:text="Delete All" android:id="@+id/ad_bold3"/>
+							</LinearLayout>
+						</LinearLayout>	
+						<!-- BODY -->
+						<TextView style="@style/text.error" android:text="No documents for this listing" android:id="@+id/ad_msg" android:visibility="gone"/>
+						<ListView style="@style/listview" android:id="@+id/ad_listview" android:layout_width="fill_parent"  android:layout_height="fill_parent">
+						    
+						</ListView>
+                </LinearLayout>
+                 <LinearLayout style="@style/fill_xy" android:id="@+id/notes_docs_view" android:orientation="vertical">
+                    <!-- NOTES LIST -->
+						<LinearLayout style="@style/wrap_y" android:weightSum="2">
+							<LinearLayout style="@style/listing.send_wrapper.first" 
+							    android:layout_width="fill_parent" 
+							    android:layout_weight="1" 
+							    android:id="@+id/nd_fetch_button">
+							    <TextView style="@style/listing.send_text" android:text="Refresh" android:id="@+id/ad_bold1"/>
+							</LinearLayout>
+							
+							<LinearLayout style="@style/listing.send_wrapper" 
+							    android:layout_width="fill_parent"
+							    android:layout_weight="1" 
+							    android:id="@+id/nd_delete_all_button">
+							    <TextView style="@style/listing.send_text" android:text="Delete All" android:id="@+id/ad_bold3"/>
+							</LinearLayout>
+						</LinearLayout>	
+						<!-- BODY -->
+						<TextView style="@style/text.error" android:text="No documents for this listing" android:id="@+id/notes_msg" android:visibility="gone"/>
+						<ListView style="@style/listview" android:id="@+id/notes_listview" android:layout_width="fill_parent"  android:layout_height="fill_parent">
+						    
+						</ListView>
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+        
+        
+	
+</LinearLayout>

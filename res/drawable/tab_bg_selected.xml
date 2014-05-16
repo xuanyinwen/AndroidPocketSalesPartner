@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+<!-- top stroke -->
+    <item>
+
+        <shape
+            android:right="1dp"
+            android:shape="rectangle" >
+
+            <solid android:color="#222" />
+        </shape>
+    </item>
+<!-- left stroke -->
+    <item android:top="1px"
+        android:bottom="1px"
+        >
+
+        <shape android:shape="rectangle" >
+
+            <gradient
+                android:angle="270"
+                android:centerColor="@color/tab_stroke_center"
+                android:endColor="@color/tab_stroke"
+                android:startColor="@color/tab_stroke" />
+        </shape>
+    </item>
+
+<!-- main gradient -->
+    <item
+        android:bottom="1px"
+        android:left="1dp"  
+        android:right="0dp"
+        android:top="0px">
+
+        <shape android:shape="rectangle" >
+
+            <gradient
+                android:angle="90"
+
+                android:endColor="#aaa"
+                android:startColor="#ccc" />
+        </shape>
+    </item>
+
+</layer-list>

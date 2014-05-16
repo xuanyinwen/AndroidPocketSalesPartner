@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true"><layer-list> <!-- pressed -->
+            <item android:right="@dimen/home_button_width_minus1">
+                <shape android:shape="rectangle">
+                                 <gradient 
+                        android:angle="90"
+                        android:startColor="@color/header_dark_stroke"
+                        android:endColor="#00000000"/>
+                </shape>
+             </item>
+            <item android:left="1px">
+                <shape android:shape="rectangle">
+       				<solid android:color="#aaa"/>
+                </shape>
+             </item>
+            <item 
+                android:top="@dimen/home_button_padding"
+                android:bottom="@dimen/home_button_padding"
+                android:left="@dimen/home_button_padding"
+                android:right="@dimen/home_button_padding">
+                <bitmap android:src="@drawable/ic_home_button" />
+            </item>
+        </layer-list>
+        
+        </item>
+    <item>		<!-- default -->
+        <layer-list>
+            <item android:right="@dimen/home_button_width_minus1">
+                <shape android:shape="rectangle">
+                             <gradient 
+                        android:angle="90"
+                        android:startColor="@color/header_dark_stroke"
+                        android:endColor="#00000000"/>
+                </shape>
+             </item>
+            <item android:left="1px">
+                <shape android:shape="rectangle">
+                    <solid android:color="@android:color/transparent"/>
+                </shape>
+             </item>
+            <item
+                android:top="@dimen/home_button_padding"
+                android:bottom="@dimen/home_button_padding"
+                android:left="@dimen/home_button_padding"
+                android:right="@dimen/home_button_padding">
+                <bitmap android:src="@drawable/ic_home_button" />
+            </item>
+        </layer-list></item>
+</selector>

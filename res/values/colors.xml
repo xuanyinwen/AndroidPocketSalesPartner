@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="body_bg">#ddd</color>
+
+    <color name="cacheColor">#ddd</color>
+    <color name="footer_options">#222</color>
+    <color name="send_body">#222</color>
+    <color name="send_body_pressed">#666</color>
+    <color name="send_white">#ddd</color>
+    <color name="banner_light">#bbb</color>
+    <color name="banner_dark">#d2d2d2</color>
+    <color name="dark_blue">#141468</color>
+    <color name="red">#b11c1c</color>
+    <color name="light_blue">#4b4b9f</color>
+    <color name="light_dark_blue">#2b2b7f</color>
+    <color name="button_stroke_inner">#2a6093</color>
+    <color name="tab_stroke">#888</color>
+    <color name="tab_stroke_center">#444</color>
+    <color name="share_stroke">#666</color>
+    <color name="share_stroke_center">#999</color>
+    <color name="brandingstroke">#777</color>
+    <color name="send_bottom">#444</color>
+    <color name="send_highlight">#666</color>
+    <color name="linkcolor">#2b2b7f</color>
+    <color name="print_bg">#222</color>
+    <color name="print_text">#eee</color>
+    <color name="lb_stroke">#888</color>
+    <color name="lb_stroke_light">#dfdfdf</color>
+    <color name="lb_dark">#aaa</color>
+    <color name="lb_light">#e2e2e2</color>
+    <color name="home_stroke">#222</color>
+    <color name="tab_bottom">#666</color>
+    <color name="header_dark_stroke">#222</color>
+
+</resources>

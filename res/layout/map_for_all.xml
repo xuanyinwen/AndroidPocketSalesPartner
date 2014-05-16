@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:orientation="vertical">
+        <!-- header -->
+<include layout="@layout/header_include"/>
+    
+<LinearLayout style="@style/map_details">
+    <LinearLayout style="@style/fill_xy" android:layout_weight="1">
+        <TextView style="@style/text.white" android:id="@+id/mfa_print" android:padding="4dp" android:paddingLeft="10dp"/>
+    </LinearLayout>
+    <LinearLayout style="@style/listing.send_wrapper.map" android:id="@+id/mfa_map_mode_button" android:layout_height="fill_parent" >
+		    <TextView style="@style/listing.send_text"  android:text="Mode" android:layout_height="fill_parent" android:layout_weight="1"/>
+    </LinearLayout>
+     <LinearLayout style="@style/listing.send_wrapper.map" android:id="@+id/mfa_map_location_button" 
+         android:layout_height="fill_parent" android:gravity="center" android:visibility="gone">
+		    <ImageView style="@style/location_icon"  android:src="@drawable/ic_location"/>
+    </LinearLayout>
+</LinearLayout>
+<!-- frame -->
+<FrameLayout style="@style/fill_xy" android:background="#444">
+<LinearLayout style="@style/divider.darkthin"></LinearLayout>
+                  <com.google.android.maps.MapView
+                 android:id="@+id/mfa_mapview"
+                 android:clickable="true"
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent"
+                 android:apiKey="0zNXiE3WCTahIhe0NQSnp99-s72FGuYOdplHbjQ"
+                 android:layout_marginBottom="@dimen/footer_height"
+                 />
+                  
+                  <!-- sliding drawer -->
+		  	<FrameLayout  android:layout_gravity="bottom" android:gravity="bottom" android:layout_width="fill_parent"
+		     android:layout_height="240dp">
+		     <LinearLayout
+		          android:layout_gravity="bottom"
+		         android:id="@+id/fake_handle"
+		         style="@style/footer.wrapper" 
+		         android:visibility="gone"/>
+ 		  	 <SlidingDrawer
+		     android:id="@+id/mfa_drawer"
+		     android:layout_width="fill_parent"
+		     android:layout_height="fill_parent"
+		
+		     android:handle="@+id/mfa_handle"
+		     android:content="@+id/mfa_content">
+		        <LinearLayout
+		         android:id="@id/mfa_handle"
+		         style="@style/footer.wrapper">
+		         <ImageView style="@style/handle_icon"/>
+		         <TextView style="@style/footer.text" android:id="@+id/foot_text"/>
+		         </LinearLayout>
+		
+		     <ScrollView
+		         android:id="@id/mfa_content"
+		         android:layout_width="fill_parent" 
+		         android:layout_height="fill_parent" android:background="@color/footer_options">
+		         <LinearLayout style="@style/wrap_y" android:orientation="vertical">
+		     <!-- <LinearLayout style="@style/divider"></LinearLayout> -->
+		     	<TableLayout style="@style/wrap_y">
+		     	    <TableRow style="@style/filters.row.dark">
+		     	        <TextView style="@style/text.options" android:text="Listed By" android:id="@+id/mfa_bold3"/>
+		     	        <Spinner android:layout_span="4" style="@style/spinner" android:id="@+id/listedby_spinner" android:prompt="@string/listed_by"/>
+		     	    </TableRow>
+		     	    <LinearLayout style="@style/divider.light"/>  
+		     	    <TableRow style="@style/filters.row.light" android:focusable="true" android:focusableInTouchMode="true">
+		     	        	<TextView style="@style/text.options" android:text="Price (K)" android:id="@+id/mfa_bold1"/>
+		     	            <EditText style="@style/filters.editText" android:text="" android:id="@+id/mfa_min_price"/>
+		     	            <TextView style="@style/text.options.result" android:text="-"/>
+		     	            <EditText style="@style/filters.editText" android:text=" " android:id="@+id/mfa_max_price"/>
+		     	            <CheckBox style="@style/wrap_xy" android:id="@+id/mfa_by_price"/>
+		     	    </TableRow>
+		     	    <LinearLayout style="@style/divider.light"/> 
+		     	    <TableRow style="@style/filters.row.dark">
+							<TextView style="@style/text.options" android:text="Bedrooms" android:id="@+id/mfa_bold2"/>
+		     	            <EditText style="@style/filters.editText" android:text="" android:id="@+id/mfa_min_beds"/>
+		     	            <TextView style="@style/text.options.result" android:text="-"/>
+		     	            <EditText style="@style/filters.editText" android:text=" " android:id="@+id/mfa_max_beds"/>	
+		     	            <CheckBox style="@style/wrap_xy" android:id="@+id/mfa_by_beds"/>     	        
+		     	    </TableRow>
+		     	    <LinearLayout style="@style/divider.light"/> 
+		     	   	<LinearLayout style="@style/filters.row.light" android:gravity="center">
+							<Button style="@style/button" android:text="Filter" android:id="@+id/mfa_filterbutton"/>	
+		     	   	</LinearLayout> 
+		     	</TableLayout>
+		         
+		     </LinearLayout>
+		     </ScrollView>
+		     </SlidingDrawer>
+		     </FrameLayout>
+</FrameLayout>
+</LinearLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+      style="@style/body">
+    <!-- header -->
+	
+<include layout="@layout/header_include"/>
+        <!-- SHARE -->
+	<LinearLayout style="@style/wrap_y">
+		<LinearLayout style="@style/listing.send_wrapper.first" android:background="@drawable/send_bg" 
+		    android:gravity="left|center_vertical" android:layout_width="fill_parent" 
+		    android:id="@+id/share_button" android:paddingLeft="10dp">
+		    <TextView style="@style/listing.send_text" android:text="Results from TradeMe" android:id="@+id/vtm_header"/>
+		    <Button style="@style/button.trademe"/>
+		    <TextView style="@style/listing.send_text" android:text="" android:id="@+id/vtm_print"/>
+		</LinearLayout>
+		</LinearLayout>	
+    <!-- body -->
+    <!-- frame -->
+<FrameLayout style="@style/fill_xy" android:background="#444">
+	<ListView style="@style/listview.main" android:id="@+id/trade_me_lv">
+	</ListView>
+                  
+                  <!-- sliding drawer -->
+		  	<FrameLayout  android:layout_gravity="bottom" android:gravity="bottom" android:layout_width="fill_parent"
+		     android:layout_height="200dp">
+		     <LinearLayout
+		          android:layout_gravity="bottom"
+		         android:id="@+id/fake_handle"
+		         style="@style/footer.wrapper" 
+		         android:visibility="gone"/>
+ 		  	 <SlidingDrawer
+		     android:id="@+id/vtm_drawer"
+		     android:layout_width="fill_parent"
+		     android:layout_height="fill_parent"
+		
+		     android:handle="@+id/vtm_handle"
+		     android:content="@+id/vtm_content">
+		        <LinearLayout
+		         android:id="@id/vtm_handle"
+		         style="@style/footer.wrapper">
+		         <ImageView style="@style/handle_icon"/>
+		         <TextView style="@style/footer.text" android:id="@+id/foot_text"/>
+		         </LinearLayout>
+		
+		     <ScrollView
+		         android:id="@id/vtm_content"
+		         android:layout_width="fill_parent" 
+		         android:layout_height="fill_parent" android:background="@color/footer_options">
+		         <LinearLayout style="@style/wrap_y" android:orientation="vertical">
+		     <!-- <LinearLayout style="@style/divider"></LinearLayout> -->
+		     	<TableLayout style="@style/wrap_y">
+		     	    <LinearLayout style="@style/filters.row.light">
+		     	        <TextView style="@style/text.options" android:text="Enabled" android:id="@+id/vtm_bold9"/>
+		     	        <CheckBox
+		     	           
+		     	             style="@style/wrap_xy" 
+		     	             
+		     	             android:id="@+id/vtm_enabled" android:paddingLeft="10dp" android:paddingRight="10dp"/>
+		     	    </LinearLayout>
+		     	    <LinearLayout style="@style/filters.row.dark" android:paddingTop="10dp" android:paddingBottom="10dp">
+		     	        <TextView style="@style/text.options" android:text="RV" android:id="@+id/vtm_bold3"/>
+		     	       <!--  android:thumb="@drawable/ic_greyball"
+		     	            android:progressDrawable="@drawable/progress_drawable" -->
+		     	        <SeekBar
+		     	             style="@style/wrap_y" android:layout_weight="1" 
+		     	             android:layout_width="200dp"
+		     	             android:id="@+id/vtm_seekbar" android:paddingLeft="10dp" android:paddingRight="10dp"/>
+		     	        <TextView style="@style/text.options" android:layout_width="80dp" android:text="100%" android:id="@+id/vtm_percent" android:paddingLeft="5dp"/>
+		     	    </LinearLayout>
+
+		     	    <LinearLayout style="@style/divider.light"/> 
+		     	   	<LinearLayout style="@style/filters.row.light" android:gravity="center">
+							<Button style="@style/button" android:text="Filter" android:id="@+id/vtm_filterbutton"/>	
+		     	   	</LinearLayout> 
+		     	</TableLayout>
+		         
+		     </LinearLayout>
+		     </ScrollView>
+		     </SlidingDrawer>
+		     </FrameLayout>
+</FrameLayout>
+
+</LinearLayout>

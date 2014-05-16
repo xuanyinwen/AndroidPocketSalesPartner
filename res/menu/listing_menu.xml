@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- android:icon="@android:drawable/ic_menu_manage" -->
+    <item
+        android:id="@+id/Options"
+        
+        android:title="Options">
+    </item>
+<!-- android:icon="@android:drawable/ic_menu_rotate" -->
+    <item
+        android:id="@+id/Sync"
+        
+        android:title="Sync">
+    </item>
+<!-- android:icon="@android:drawable/ic_menu_myplaces" -->
+    <item
+        android:id="@+id/Home"
+        
+        android:title="Home">
+    </item>
+
+</menu>

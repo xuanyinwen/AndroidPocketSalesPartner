@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/row.wrapper"
+    android:orientation="horizontal" android:layout_width="fill_parent"  >
+	<LinearLayout style="@style/row.thumbnail_wrapper" android:background="@null">
+	    <ImageView style="@style/row.docthumbnail" android:id="@+id/docrow_thumb"/>
+	</LinearLayout>
+    <LinearLayout style="@style/row.right_col" android:layout_weight="1" android:orientation="vertical"
+         android:layout_width="fill_parent" android:paddingTop="5dp">
+			<TextView style="@style/row.text" android:id="@+id/docrow_name"/>
+			<TextView style="@style/row.text" android:id="@+id/docrow_size"/>
+    </LinearLayout>
+        <LinearLayout style="@style/wrap_xy" android:layout_gravity="center_vertical|right" >
+            <ImageView style="@style/local_icon" android:id="@+id/docrow_local_icon"/>
+            <ImageView style="@style/arrow" />
+        </LinearLayout>
+</LinearLayout>

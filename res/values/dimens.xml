@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_height">36dip</dimen><!-- 38 -->
+    <dimen name="footer_height">36dip</dimen>
+    <dimen name="banner_height">39dip</dimen>
+    <dimen name="banner_height_noshadow">34dip</dimen>
+    <dimen name="banner_half">10dip</dimen>
+    <dimen name="share_height">36dip</dimen>
+    <dimen name="tab_height">40dip</dimen>
+    <dimen name="search_wrapper">60dip</dimen>
+    <dimen name="home_button_padding">5dip</dimen>
+    <dimen name="landing_button_padding">10dip</dimen>
+    <dimen name="landing_button_padding_doc">14dip</dimen>
+    <dimen name="landing_button_padding_maps">4dip</dimen>
+    <dimen name="sort_button_padding">10dip</dimen>
+    <dimen name="progress_radius">2dip</dimen>
+    <dimen name="home_button_width">36dip</dimen>
+    <dimen name="home_button_width_minus1">39dip</dimen>
+</resources>   
